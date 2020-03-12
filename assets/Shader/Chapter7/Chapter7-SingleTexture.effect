@@ -1,0 +1,104 @@
+// Effect Syntax Guide: https://github.com/cocos-creator/docs-3d/blob/master/zh/material-system/effect-syntax.md
+
+CCEffect %{
+  techniques:
+  - name: opaque
+    passes:
+    - vert: unlit-vs:vert # builtin header
+      frag: unlit-fs:frag
+      properties: &props
+        mainTiling: { value: [1, 1] }
+        mainOffset: { value: [0, 0] }
+        diffuseColor: { value: [1, 1, 1, 1], editor: {type: color} }
+        specularColor: { value: [1, 1, 1, 1], editor: {type: color} }
+        gloss: {value: 20}
+        mainTex: { value: white }
+        color: { value: [1, 1, 1, 1], editor: {type: color} }
+  - name: transparent
+    passes:
+    - vert: unlit-vs:vert # builtin header
+      frag: unlit-fs:frag
+      blendState:
+        targets:
+        - blend: true
+          blendSrc: src_alpha
+          blendDst: one_minus_src_alpha
+          blendSrcAlpha: src_alpha
+          blendDstAlpha: one_minus_src_alpha
+      properties: *props
+}%
+
+CCProgram unlit-vs %{
+  precision highp float;
+  #include <cc-global>
+  #include <cc-local-batch>
+  #include <input-standard>
+
+  in vec2 a_texCoord;
+  in vec4 a_color;
+  out vec3 v_worldNormal;
+  out vec3 v_worldPos;
+
+  #if USE_TEXTURE
+    out vec2 v_uv0;
+  #endif
+  uniform VsConstant {
+    vec2 mainTiling;
+    vec2 mainOffset;
+  };
+
+  vec4 vert () {
+    StandardVertInput In;
+    CCVertInput(In);
+    mat4 matWorld, matWorldIT;
+    CCGetWorldMatrixFull(matWorld, matWorldIT);
+    vec4 position = In.position;
+    v_worldNormal = normalize((matWorldIT * vec4(In.normal, 0)).xyz);
+    v_worldPos = (matWorld * position).xyz;  
+    #if USE_TEXTURE
+      v_uv0 = a_texCoord * mainTiling + mainOffset;
+    #endif
+    return cc_matProj * (cc_matView * matWorld) * In.position;
+  }
+}%
+
+CCProgram unlit-fs %{
+  precision highp float;
+  #include <cc-global>
+  #include <texture-lod>
+  in vec3 v_worldPos;
+  in vec3 v_worldNormal;
+  uniform FsConstant {
+    vec4 diffuseColor;
+    vec4 specularColor;
+    vec4 color;
+    vec2 mainTiling;
+    vec2 mainOffset;
+    float gloss;
+  };
+  #if USE_TEXTURE
+    in vec2 v_uv0;
+    uniform sampler2D mainTex;
+  #endif
+
+  vec4 frag () {
+
+    vec3 worldNormal = normalize(v_worldNormal);
+    vec3 worldLightDir = -cc_mainLitDir.xyz;
+
+    vec3 albedo = vec3(1, 1, 1);
+    #if USE_TEXTURE
+        vec4 tmp = texture(mainTex, v_uv0);
+        albedo *= tmp.rgb;
+    #endif
+    vec3 ambient = cc_ambientGround.rgb * albedo;
+    vec3 diffuse = cc_mainLitColor.rgb * diffuseColor.rgb * max(0., dot(worldNormal, worldLightDir)) * albedo;
+    vec3 reflectDir = normalize(reflect(-worldLightDir, worldNormal));
+    vec3 viewDir = normalize(cc_cameraPos.xyz - v_worldPos);
+    vec3 halfDir = normalize(viewDir + reflectDir);
+    vec3 specular = cc_mainLitColor.rgb * specularColor.rgb * pow(max(0., dot(worldNormal, halfDir)), gloss);
+    return min(vec4(ambient + diffuse + specular, 1), vec4(1,1,1,1));
+    
+    // return vec4(1,1,1,1);
+  }
+}%

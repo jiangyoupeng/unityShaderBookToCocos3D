@@ -1,0 +1,15 @@
+{
+  "version": {
+    "alipay-mini-game": "1.0.4.1",
+    "baidu-mini-game": "1.0.4.1",
+    "cocos-play": "1.0.4.1",
+    "huawei-mini-game": "1.0.4.1",
+    "native": "1.0.4.1",
+    "oppo-mini-game": "1.0.4.1",
+    "vivo-mini-game": "1.0.4.1",
+    "web-desktop": "1.0.4.1",
+    "web-mobile": "1.0.4.1",
+    "wechatgame": "1.0.4.1",
+    "xiaomi-quick-game": "1.0.4.1"
+  }
+}

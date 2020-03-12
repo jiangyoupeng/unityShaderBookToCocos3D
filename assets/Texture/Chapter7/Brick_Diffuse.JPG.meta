@@ -1,0 +1,49 @@
+{
+  "ver": "1.0.16",
+  "uuid": "7d948500-79c3-4e74-b21f-5b831f866431",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1024,
+  "height": 1024,
+  "platformSettings": {},
+  "subMetas": {
+    "6c48a": {
+      "ver": "1.0.19",
+      "importer": "texture",
+      "uuid": "7d948500-79c3-4e74-b21f-5b831f866431@6c48a",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "7d948500-79c3-4e74-b21f-5b831f866431"
+      },
+      "displayName": "Brick_Diffuse.JPG",
+      "id": "6c48a",
+      "name": "texture"
+    }
+  },
+  "importer": "image",
+  "imported": true,
+  "files": [
+    ".jpg",
+    ".json"
+  ],
+  "userData": {
+    "type": "texture",
+    "redirect": "7d948500-79c3-4e74-b21f-5b831f866431@6c48a"
+  }
+}
