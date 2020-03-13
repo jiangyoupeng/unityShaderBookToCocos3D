@@ -26,6 +26,9 @@
       },
       {
         "__id__": 8
+      },
+      {
+        "__id__": 10
       }
     ],
     "_active": true,
@@ -33,7 +36,7 @@
     "_prefab": null,
     "autoReleaseAssets": false,
     "_globals": {
-      "__id__": 10
+      "__id__": 12
     },
     "_id": "382a7ee0-3cb8-49d0-b012-55a8559f199e"
   },
@@ -193,9 +196,10 @@
         "__id__": 7
       }
     ],
+    "_prefab": null,
     "_lpos": {
       "__type__": "cc.Vec3",
-      "x": 1.5,
+      "x": 1.25,
       "y": 1,
       "z": 5
     },
@@ -231,7 +235,7 @@
     "_enabled": true,
     "_materials": [
       {
-        "__uuid__": "d3c7820c-2a98-4429-8bc7-b8453bc9ac41"
+        "__uuid__": "899e813c-06b2-4169-b7e7-aa810c7a9666"
       }
     ],
     "_visFlags": 0,
@@ -255,9 +259,73 @@
         "__id__": 9
       }
     ],
+    "_prefab": null,
     "_lpos": {
       "__type__": "cc.Vec3",
       "x": -1.5,
+      "y": 1,
+      "z": 5
+    },
+    "_lrot": {
+      "__type__": "cc.Quat",
+      "x": 0,
+      "y": 0,
+      "z": 0,
+      "w": 1
+    },
+    "_lscale": {
+      "__type__": "cc.Vec3",
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "_layer": 1073741824,
+    "_euler": {
+      "__type__": "cc.Vec3",
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "_id": "87YhCHOCFC3rftAQ+vKtxv"
+  },
+  {
+    "__type__": "cc.ModelComponent",
+    "_name": "Capsule<ModelComponent>",
+    "_objFlags": 0,
+    "node": {
+      "__id__": 8
+    },
+    "_enabled": true,
+    "_materials": [
+      {
+        "__uuid__": "f9707c74-8b09-4a77-ba3c-470f8e58672a"
+      }
+    ],
+    "_visFlags": 0,
+    "_mesh": {
+      "__uuid__": "1263d74c-8167-4928-91a6-4e2672411f47@801ec"
+    },
+    "_shadowCastingMode": 0,
+    "_id": "7e+KsqVVBFhJJ9gKpwpBfp"
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "Capsule",
+    "_objFlags": 0,
+    "_parent": {
+      "__id__": 1
+    },
+    "_children": [],
+    "_active": true,
+    "_components": [
+      {
+        "__id__": 11
+      }
+    ],
+    "_prefab": null,
+    "_lpos": {
+      "__type__": "cc.Vec3",
+      "x": 0,
       "y": 1,
       "z": 5
     },
@@ -288,12 +356,12 @@
     "_name": "Capsule<ModelComponent>",
     "_objFlags": 0,
     "node": {
-      "__id__": 8
+      "__id__": 10
     },
     "_enabled": true,
     "_materials": [
       {
-        "__uuid__": "f9707c74-8b09-4a77-ba3c-470f8e58672a"
+        "__uuid__": "5fba1328-43bb-4e9f-8218-768870390c4a"
       }
     ],
     "_visFlags": 0,
@@ -306,13 +374,13 @@
   {
     "__type__": "cc.SceneGlobals",
     "ambient": {
-      "__id__": 11
+      "__id__": 13
     },
     "planarShadows": {
-      "__id__": 12
+      "__id__": 14
     },
     "_skybox": {
-      "__id__": 13
+      "__id__": 15
     }
   },
   {
