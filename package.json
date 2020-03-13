@@ -1,5 +1,6 @@
 {
   "name": "unityShaderBookToCocos3D",
   "type": "3d",
-  "uuid": "35ffa918-bb3e-4bb0-b3cb-619911d4a915"
+  "uuid": "35ffa918-bb3e-4bb0-b3cb-619911d4a915",
+  "version": "1.0.4"
 }

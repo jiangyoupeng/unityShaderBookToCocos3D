@@ -14,6 +14,8 @@ CCEffect %{
         gloss: {value: 20}
         mainTex: { value: white }
         color: { value: [1, 1, 1, 1], editor: {type: color} }
+        normalMap: { value: normal }
+        bumpScale: {value: 1.}
   - name: transparent
     passes:
     - vert: unlit-vs:vert # builtin header
@@ -36,9 +38,9 @@ CCProgram unlit-vs %{
 
   in vec2 a_texCoord;
   in vec4 a_color;
-  out vec3 v_worldNormal;
-  out vec3 v_worldPos;
-
+  out vec3 v_lightDir;
+  out vec3 v_viewDir;
+  out vec3 v_tangent;
   #if USE_TEXTURE
     out vec2 v_uv0;
   #endif
@@ -47,14 +49,39 @@ CCProgram unlit-vs %{
     vec2 mainOffset;
   };
 
+  // mat4 transpose(mat4 v) {
+  //   mat4 tmp;
+  //   tmp[0] = vec4(v[0].x, v[1].x, v[2].x, v[3].x);
+  //   tmp[1] = vec4(v[0].y, v[1].y, v[2].y, v[3].y);
+  //   tmp[2] = vec4(v[0].z, v[1].z, v[2].z, v[3].z);
+  //   tmp[3] = vec4(v[0].z, v[1].z, v[2].z, v[3].w);
+  //   return tmp;
+  // }
+  
+  mat3 transposeMat3(mat3 v) {
+    mat3 tmp;
+    tmp[0] = vec3(v[0].x, v[1].x, v[2].x);
+    tmp[1] = vec3(v[0].y, v[1].y, v[2].y);
+    tmp[2] = vec3(v[0].z, v[1].z, v[2].z);
+    return tmp;
+  }
+
   vec4 vert () {
     StandardVertInput In;
     CCVertInput(In);
+    vec4 position = In.position;
     mat4 matWorld, matWorldIT;
     CCGetWorldMatrixFull(matWorld, matWorldIT);
-    vec4 position = In.position;
-    v_worldNormal = normalize((matWorldIT * vec4(In.normal, 0)).xyz);
-    v_worldPos = (matWorld * position).xyz;  
+    vec3 worldPosition = (matWorld * position).xyz;
+    vec3 worldNormal = normalize((matWorldIT * vec4(In.normal, 0.0)).xyz);
+    vec3 worldTangent = normalize((matWorld * vec4(In.tangent.xyz, 0.0)).xyz);
+    vec3 worldBinormal = cross(worldNormal, worldTangent) * In.tangent.w;
+    mat3 worldToTangent = mat3(worldTangent, worldBinormal, worldNormal);
+    worldToTangent = transposeMat3(worldToTangent);
+    v_lightDir = worldToTangent * ( -cc_mainLitDir.xyz).xyz;
+    vec4 tmp = vec4(cc_cameraPos.xyz - worldPosition, 0);
+    v_viewDir = (worldToTangent * (tmp).xyz);
+    v_tangent = In.tangent.xyz;
     #if USE_TEXTURE
       v_uv0 = a_texCoord * mainTiling + mainOffset;
     #endif
@@ -66,8 +93,9 @@ CCProgram unlit-fs %{
   precision highp float;
   #include <cc-global>
   #include <texture-lod>
-  in vec3 v_worldPos;
-  in vec3 v_worldNormal;
+  in vec3 v_lightDir;
+  in vec3 v_viewDir;
+  in vec3 v_tangent;
   uniform FsConstant {
     vec4 diffuseColor;
     vec4 specularColor;
@@ -75,28 +103,31 @@ CCProgram unlit-fs %{
     vec2 mainTiling;
     vec2 mainOffset;
     float gloss;
+    float bumpScale;
   };
   #if USE_TEXTURE
     in vec2 v_uv0;
     uniform sampler2D mainTex;
+    uniform sampler2D normalMap;
   #endif
 
   vec4 frag () {
-
-    vec3 worldNormal = normalize(v_worldNormal);
-    vec3 worldLightDir = -cc_mainLitDir.xyz;
-
+    vec3 tangentLightDir = normalize(v_lightDir);
+    vec3 tangentViewDir = normalize(v_viewDir);
+    vec4 packedNormal = texture(normalMap, v_uv0);
+    vec3 tangentNormal;
+    tangentNormal.xy = (packedNormal.xy * 2. - 1.) * bumpScale;
+    tangentNormal.z = sqrt(1. - max(0., dot(tangentNormal.xy, tangentNormal.xy)));
     vec3 albedo = vec3(1, 1, 1);
     #if USE_TEXTURE
         vec4 tmp = texture(mainTex, v_uv0);
         albedo *= tmp.rgb;
     #endif
+    
     vec3 ambient = cc_ambientGround.rgb * albedo;
-    vec3 diffuse = cc_mainLitColor.rgb * diffuseColor.rgb * max(0., dot(worldNormal, worldLightDir)) * albedo;
-    vec3 reflectDir = normalize(reflect(-worldLightDir, worldNormal));
-    vec3 viewDir = normalize(cc_cameraPos.xyz - v_worldPos);
-    vec3 halfDir = normalize(viewDir + reflectDir);
-    vec3 specular = cc_mainLitColor.rgb * specularColor.rgb * pow(max(0., dot(worldNormal, halfDir)), gloss);
-    return min(vec4(ambient + diffuse + specular, 1), vec4(1,1,1,1));
+    vec3 diffuse = cc_mainLitColor.rgb * diffuseColor.rgb * max(0., dot(tangentNormal, tangentLightDir)) * albedo;
+    vec3 halfDir = normalize(tangentViewDir + tangentLightDir);
+    vec3 specular = cc_mainLitColor.rgb * specularColor.rgb * pow(max(0., dot(tangentNormal, halfDir)), gloss);
+    return vec4(v_tangent.xyz, 1);
   }
 }%

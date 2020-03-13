@@ -4,7 +4,7 @@
   "_objFlags": 0,
   "_native": "",
   "_effectAsset": {
-    "__uuid__": "f9958bdb-022d-4f3f-8ac9-01eebdc6f1a0"
+    "__uuid__": "8d54bb0f-b6f1-463b-9b5e-a3989dc4217b"
   },
   "_techIdx": 0,
   "_defines": [
@@ -28,7 +28,11 @@
       "gloss": 50,
       "mainTex": {
         "__uuid__": "7d948500-79c3-4e74-b21f-5b831f866431@6c48a"
-      }
+      },
+      "normalMap": {
+        "__uuid__": "b7122f7d-d663-4c5c-96e2-12ffb0872c9e@6c48a"
+      },
+      "bumpScale": -1
     }
   ]
 }

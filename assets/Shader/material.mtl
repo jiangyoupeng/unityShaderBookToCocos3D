@@ -4,12 +4,13 @@
   "_objFlags": 0,
   "_native": "",
   "_effectAsset": {
-    "__uuid__": "f9958bdb-022d-4f3f-8ac9-01eebdc6f1a0"
+    "__uuid__": "1baf0fc9-befa-459c-8bdd-af1a450a0319"
   },
   "_techIdx": 0,
   "_defines": [
     {
-      "USE_TEXTURE": true
+      "USE_NORMAL_MAP": true,
+      "USE_ALBEDO_MAP": true
     }
   ],
   "_states": [
@@ -25,8 +26,13 @@
   ],
   "_props": [
     {
-      "gloss": 50,
-      "mainTex": {
+      "mainTexture": {
+        "__uuid__": "7d948500-79c3-4e74-b21f-5b831f866431@6c48a"
+      },
+      "normalMap": {
+        "__uuid__": "b7122f7d-d663-4c5c-96e2-12ffb0872c9e@6c48a"
+      },
+      "emissiveMap": {
         "__uuid__": "7d948500-79c3-4e74-b21f-5b831f866431@6c48a"
       }
     }
