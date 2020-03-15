@@ -1,121 +1,165 @@
 {
   "file2uuids": {
     "F:\\creator\\CocosCreator3D_1_0_4\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\general-vs.chunk": [],
-    "F:\\creator\\CocosCreator3D_1_0_4\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\cc-global.chunk": [],
-    "F:\\creator\\CocosCreator3D_1_0_4\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\cc-local-batch.chunk": [],
-    "F:\\creator\\CocosCreator3D_1_0_4\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\cc-local.chunk": [],
-    "F:\\creator\\CocosCreator3D_1_0_4\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\input-standard.chunk": [],
-    "F:\\creator\\CocosCreator3D_1_0_4\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\decode-standard.chunk": [],
-    "F:\\creator\\CocosCreator3D_1_0_4\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\decode-base.chunk": [],
-    "F:\\creator\\CocosCreator3D_1_0_4\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\cc-skinning.chunk": [],
-    "F:\\creator\\CocosCreator3D_1_0_4\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\skinning-lbs.chunk": [],
-    "F:\\creator\\CocosCreator3D_1_0_4\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\unlit-fs.chunk": [],
+    "F:\\creator\\CocosCreator3D_1_0_4\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\cc-global.chunk": [
+      "f9958bdb-022d-4f3f-8ac9-01eebdc6f1a0",
+      "8d54bb0f-b6f1-463b-9b5e-a3989dc4217b",
+      "e7e3e851-94f5-4268-bb49-bf99279677b0",
+      "e73deb30-410e-409c-9c30-5105a97d59f3"
+    ],
+    "F:\\creator\\CocosCreator3D_1_0_4\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\cc-local-batch.chunk": [
+      "f9958bdb-022d-4f3f-8ac9-01eebdc6f1a0",
+      "8d54bb0f-b6f1-463b-9b5e-a3989dc4217b",
+      "e7e3e851-94f5-4268-bb49-bf99279677b0",
+      "e73deb30-410e-409c-9c30-5105a97d59f3"
+    ],
+    "F:\\creator\\CocosCreator3D_1_0_4\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\cc-local.chunk": [
+      "f9958bdb-022d-4f3f-8ac9-01eebdc6f1a0",
+      "8d54bb0f-b6f1-463b-9b5e-a3989dc4217b",
+      "e7e3e851-94f5-4268-bb49-bf99279677b0",
+      "e73deb30-410e-409c-9c30-5105a97d59f3"
+    ],
+    "F:\\creator\\CocosCreator3D_1_0_4\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\input-standard.chunk": [
+      "f9958bdb-022d-4f3f-8ac9-01eebdc6f1a0",
+      "8d54bb0f-b6f1-463b-9b5e-a3989dc4217b",
+      "e7e3e851-94f5-4268-bb49-bf99279677b0",
+      "e73deb30-410e-409c-9c30-5105a97d59f3"
+    ],
+    "F:\\creator\\CocosCreator3D_1_0_4\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\decode-standard.chunk": [
+      "f9958bdb-022d-4f3f-8ac9-01eebdc6f1a0",
+      "8d54bb0f-b6f1-463b-9b5e-a3989dc4217b",
+      "e7e3e851-94f5-4268-bb49-bf99279677b0",
+      "e73deb30-410e-409c-9c30-5105a97d59f3"
+    ],
+    "F:\\creator\\CocosCreator3D_1_0_4\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\decode-base.chunk": [
+      "f9958bdb-022d-4f3f-8ac9-01eebdc6f1a0",
+      "8d54bb0f-b6f1-463b-9b5e-a3989dc4217b",
+      "e7e3e851-94f5-4268-bb49-bf99279677b0",
+      "e73deb30-410e-409c-9c30-5105a97d59f3"
+    ],
+    "F:\\creator\\CocosCreator3D_1_0_4\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\cc-skinning.chunk": [
+      "f9958bdb-022d-4f3f-8ac9-01eebdc6f1a0",
+      "8d54bb0f-b6f1-463b-9b5e-a3989dc4217b",
+      "e7e3e851-94f5-4268-bb49-bf99279677b0",
+      "e73deb30-410e-409c-9c30-5105a97d59f3"
+    ],
+    "F:\\creator\\CocosCreator3D_1_0_4\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\skinning-lbs.chunk": [
+      "f9958bdb-022d-4f3f-8ac9-01eebdc6f1a0",
+      "8d54bb0f-b6f1-463b-9b5e-a3989dc4217b",
+      "e7e3e851-94f5-4268-bb49-bf99279677b0",
+      "e73deb30-410e-409c-9c30-5105a97d59f3"
+    ],
+    "F:\\creator\\CocosCreator3D_1_0_4\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\unlit-fs.chunk": [
+      "f9958bdb-022d-4f3f-8ac9-01eebdc6f1a0",
+      "8d54bb0f-b6f1-463b-9b5e-a3989dc4217b",
+      "e7e3e851-94f5-4268-bb49-bf99279677b0",
+      "e73deb30-410e-409c-9c30-5105a97d59f3"
+    ],
     "F:\\creator\\CocosCreator3D_1_0_4\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\output.chunk": [],
     "F:\\creator\\CocosCreator3D_1_0_4\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\gamma.chunk": [],
     "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\chunks\\general-vs.chunk": [],
-    "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\chunks\\cc-global.chunk": [],
-    "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\chunks\\cc-local-batch.chunk": [],
-    "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\chunks\\cc-local.chunk": [],
-    "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\chunks\\input-standard.chunk": [],
-    "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\chunks\\decode-standard.chunk": [],
-    "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\chunks\\decode-base.chunk": [],
-    "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\chunks\\cc-skinning.chunk": [],
-    "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\chunks\\skinning-lbs.chunk": [],
-    "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\chunks\\unlit-fs.chunk": [],
+    "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\chunks\\cc-global.chunk": [
+      "f9958bdb-022d-4f3f-8ac9-01eebdc6f1a0",
+      "8d54bb0f-b6f1-463b-9b5e-a3989dc4217b",
+      "e7e3e851-94f5-4268-bb49-bf99279677b0",
+      "e73deb30-410e-409c-9c30-5105a97d59f3"
+    ],
+    "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\chunks\\cc-local-batch.chunk": [
+      "f9958bdb-022d-4f3f-8ac9-01eebdc6f1a0",
+      "8d54bb0f-b6f1-463b-9b5e-a3989dc4217b",
+      "e7e3e851-94f5-4268-bb49-bf99279677b0",
+      "e73deb30-410e-409c-9c30-5105a97d59f3"
+    ],
+    "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\chunks\\cc-local.chunk": [
+      "f9958bdb-022d-4f3f-8ac9-01eebdc6f1a0",
+      "8d54bb0f-b6f1-463b-9b5e-a3989dc4217b",
+      "e7e3e851-94f5-4268-bb49-bf99279677b0",
+      "e73deb30-410e-409c-9c30-5105a97d59f3"
+    ],
+    "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\chunks\\input-standard.chunk": [
+      "f9958bdb-022d-4f3f-8ac9-01eebdc6f1a0",
+      "8d54bb0f-b6f1-463b-9b5e-a3989dc4217b",
+      "e7e3e851-94f5-4268-bb49-bf99279677b0",
+      "e73deb30-410e-409c-9c30-5105a97d59f3"
+    ],
+    "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\chunks\\decode-standard.chunk": [
+      "f9958bdb-022d-4f3f-8ac9-01eebdc6f1a0",
+      "8d54bb0f-b6f1-463b-9b5e-a3989dc4217b",
+      "e7e3e851-94f5-4268-bb49-bf99279677b0",
+      "e73deb30-410e-409c-9c30-5105a97d59f3"
+    ],
+    "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\chunks\\decode-base.chunk": [
+      "f9958bdb-022d-4f3f-8ac9-01eebdc6f1a0",
+      "8d54bb0f-b6f1-463b-9b5e-a3989dc4217b",
+      "e7e3e851-94f5-4268-bb49-bf99279677b0",
+      "e73deb30-410e-409c-9c30-5105a97d59f3"
+    ],
+    "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\chunks\\cc-skinning.chunk": [
+      "f9958bdb-022d-4f3f-8ac9-01eebdc6f1a0",
+      "8d54bb0f-b6f1-463b-9b5e-a3989dc4217b",
+      "e7e3e851-94f5-4268-bb49-bf99279677b0",
+      "e73deb30-410e-409c-9c30-5105a97d59f3"
+    ],
+    "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\chunks\\skinning-lbs.chunk": [
+      "f9958bdb-022d-4f3f-8ac9-01eebdc6f1a0",
+      "8d54bb0f-b6f1-463b-9b5e-a3989dc4217b",
+      "e7e3e851-94f5-4268-bb49-bf99279677b0",
+      "e73deb30-410e-409c-9c30-5105a97d59f3"
+    ],
+    "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\chunks\\unlit-fs.chunk": [
+      "f9958bdb-022d-4f3f-8ac9-01eebdc6f1a0",
+      "8d54bb0f-b6f1-463b-9b5e-a3989dc4217b",
+      "e7e3e851-94f5-4268-bb49-bf99279677b0",
+      "e73deb30-410e-409c-9c30-5105a97d59f3"
+    ],
     "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\chunks\\output.chunk": [],
     "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\chunks\\gamma.chunk": [],
-    "F:\\creator\\CocosCreator3D_1_0_4\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\unlit-vs.chunk": [],
-    "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\chunks\\unlit-vs.chunk": [],
-    "F:\\creator\\CocosCreator3D_1_0_4\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\texture-lod.chunk": [],
-    "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\chunks\\texture-lod.chunk": [],
-    "G:\\CocosCreator\\CocosCreator3D_1_0_4\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\unlit-vs.chunk": [
+    "F:\\creator\\CocosCreator3D_1_0_4\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\unlit-vs.chunk": [
+      "f9958bdb-022d-4f3f-8ac9-01eebdc6f1a0",
       "8d54bb0f-b6f1-463b-9b5e-a3989dc4217b",
-      "f9958bdb-022d-4f3f-8ac9-01eebdc6f1a0"
+      "e7e3e851-94f5-4268-bb49-bf99279677b0",
+      "e73deb30-410e-409c-9c30-5105a97d59f3"
     ],
-    "G:\\CocosCreator\\CocosCreator3D_1_0_4\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\cc-global.chunk": [
+    "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\chunks\\unlit-vs.chunk": [
+      "f9958bdb-022d-4f3f-8ac9-01eebdc6f1a0",
       "8d54bb0f-b6f1-463b-9b5e-a3989dc4217b",
-      "f9958bdb-022d-4f3f-8ac9-01eebdc6f1a0"
+      "e7e3e851-94f5-4268-bb49-bf99279677b0",
+      "e73deb30-410e-409c-9c30-5105a97d59f3"
     ],
-    "G:\\CocosCreator\\CocosCreator3D_1_0_4\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\cc-local-batch.chunk": [
+    "F:\\creator\\CocosCreator3D_1_0_4\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\texture-lod.chunk": [
+      "f9958bdb-022d-4f3f-8ac9-01eebdc6f1a0",
       "8d54bb0f-b6f1-463b-9b5e-a3989dc4217b",
-      "f9958bdb-022d-4f3f-8ac9-01eebdc6f1a0"
+      "e7e3e851-94f5-4268-bb49-bf99279677b0",
+      "e73deb30-410e-409c-9c30-5105a97d59f3"
     ],
-    "G:\\CocosCreator\\CocosCreator3D_1_0_4\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\cc-local.chunk": [
+    "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\chunks\\texture-lod.chunk": [
+      "f9958bdb-022d-4f3f-8ac9-01eebdc6f1a0",
       "8d54bb0f-b6f1-463b-9b5e-a3989dc4217b",
-      "f9958bdb-022d-4f3f-8ac9-01eebdc6f1a0"
+      "e7e3e851-94f5-4268-bb49-bf99279677b0",
+      "e73deb30-410e-409c-9c30-5105a97d59f3"
     ],
-    "G:\\CocosCreator\\CocosCreator3D_1_0_4\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\input-standard.chunk": [
-      "8d54bb0f-b6f1-463b-9b5e-a3989dc4217b",
-      "f9958bdb-022d-4f3f-8ac9-01eebdc6f1a0"
-    ],
-    "G:\\CocosCreator\\CocosCreator3D_1_0_4\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\decode-standard.chunk": [
-      "8d54bb0f-b6f1-463b-9b5e-a3989dc4217b",
-      "f9958bdb-022d-4f3f-8ac9-01eebdc6f1a0"
-    ],
-    "G:\\CocosCreator\\CocosCreator3D_1_0_4\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\decode-base.chunk": [
-      "8d54bb0f-b6f1-463b-9b5e-a3989dc4217b",
-      "f9958bdb-022d-4f3f-8ac9-01eebdc6f1a0"
-    ],
-    "G:\\CocosCreator\\CocosCreator3D_1_0_4\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\cc-skinning.chunk": [
-      "8d54bb0f-b6f1-463b-9b5e-a3989dc4217b",
-      "f9958bdb-022d-4f3f-8ac9-01eebdc6f1a0"
-    ],
-    "G:\\CocosCreator\\CocosCreator3D_1_0_4\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\skinning-lbs.chunk": [
-      "8d54bb0f-b6f1-463b-9b5e-a3989dc4217b",
-      "f9958bdb-022d-4f3f-8ac9-01eebdc6f1a0"
-    ],
-    "G:\\CocosCreator\\CocosCreator3D_1_0_4\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\unlit-fs.chunk": [
-      "8d54bb0f-b6f1-463b-9b5e-a3989dc4217b",
-      "f9958bdb-022d-4f3f-8ac9-01eebdc6f1a0"
-    ],
-    "G:\\CocosCreator\\CocosCreator3D_1_0_4\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\texture-lod.chunk": [
-      "8d54bb0f-b6f1-463b-9b5e-a3989dc4217b",
-      "f9958bdb-022d-4f3f-8ac9-01eebdc6f1a0"
-    ],
-    "G:\\creatorProject\\unityShaderBookToCocos3D\\assets\\chunks\\unlit-vs.chunk": [
-      "8d54bb0f-b6f1-463b-9b5e-a3989dc4217b",
-      "f9958bdb-022d-4f3f-8ac9-01eebdc6f1a0"
-    ],
-    "G:\\creatorProject\\unityShaderBookToCocos3D\\assets\\chunks\\cc-global.chunk": [
-      "8d54bb0f-b6f1-463b-9b5e-a3989dc4217b",
-      "f9958bdb-022d-4f3f-8ac9-01eebdc6f1a0"
-    ],
-    "G:\\creatorProject\\unityShaderBookToCocos3D\\assets\\chunks\\cc-local-batch.chunk": [
-      "8d54bb0f-b6f1-463b-9b5e-a3989dc4217b",
-      "f9958bdb-022d-4f3f-8ac9-01eebdc6f1a0"
-    ],
-    "G:\\creatorProject\\unityShaderBookToCocos3D\\assets\\chunks\\cc-local.chunk": [
-      "8d54bb0f-b6f1-463b-9b5e-a3989dc4217b",
-      "f9958bdb-022d-4f3f-8ac9-01eebdc6f1a0"
-    ],
-    "G:\\creatorProject\\unityShaderBookToCocos3D\\assets\\chunks\\input-standard.chunk": [
-      "8d54bb0f-b6f1-463b-9b5e-a3989dc4217b",
-      "f9958bdb-022d-4f3f-8ac9-01eebdc6f1a0"
-    ],
-    "G:\\creatorProject\\unityShaderBookToCocos3D\\assets\\chunks\\decode-standard.chunk": [
-      "8d54bb0f-b6f1-463b-9b5e-a3989dc4217b",
-      "f9958bdb-022d-4f3f-8ac9-01eebdc6f1a0"
-    ],
-    "G:\\creatorProject\\unityShaderBookToCocos3D\\assets\\chunks\\decode-base.chunk": [
-      "8d54bb0f-b6f1-463b-9b5e-a3989dc4217b",
-      "f9958bdb-022d-4f3f-8ac9-01eebdc6f1a0"
-    ],
-    "G:\\creatorProject\\unityShaderBookToCocos3D\\assets\\chunks\\cc-skinning.chunk": [
-      "8d54bb0f-b6f1-463b-9b5e-a3989dc4217b",
-      "f9958bdb-022d-4f3f-8ac9-01eebdc6f1a0"
-    ],
-    "G:\\creatorProject\\unityShaderBookToCocos3D\\assets\\chunks\\skinning-lbs.chunk": [
-      "8d54bb0f-b6f1-463b-9b5e-a3989dc4217b",
-      "f9958bdb-022d-4f3f-8ac9-01eebdc6f1a0"
-    ],
-    "G:\\creatorProject\\unityShaderBookToCocos3D\\assets\\chunks\\unlit-fs.chunk": [
-      "8d54bb0f-b6f1-463b-9b5e-a3989dc4217b",
-      "f9958bdb-022d-4f3f-8ac9-01eebdc6f1a0"
-    ],
-    "G:\\creatorProject\\unityShaderBookToCocos3D\\assets\\chunks\\texture-lod.chunk": [
-      "8d54bb0f-b6f1-463b-9b5e-a3989dc4217b",
-      "f9958bdb-022d-4f3f-8ac9-01eebdc6f1a0"
-    ]
+    "G:\\CocosCreator\\CocosCreator3D_1_0_4\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\unlit-vs.chunk": [],
+    "G:\\CocosCreator\\CocosCreator3D_1_0_4\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\cc-global.chunk": [],
+    "G:\\CocosCreator\\CocosCreator3D_1_0_4\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\cc-local-batch.chunk": [],
+    "G:\\CocosCreator\\CocosCreator3D_1_0_4\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\cc-local.chunk": [],
+    "G:\\CocosCreator\\CocosCreator3D_1_0_4\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\input-standard.chunk": [],
+    "G:\\CocosCreator\\CocosCreator3D_1_0_4\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\decode-standard.chunk": [],
+    "G:\\CocosCreator\\CocosCreator3D_1_0_4\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\decode-base.chunk": [],
+    "G:\\CocosCreator\\CocosCreator3D_1_0_4\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\cc-skinning.chunk": [],
+    "G:\\CocosCreator\\CocosCreator3D_1_0_4\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\skinning-lbs.chunk": [],
+    "G:\\CocosCreator\\CocosCreator3D_1_0_4\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\unlit-fs.chunk": [],
+    "G:\\CocosCreator\\CocosCreator3D_1_0_4\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\texture-lod.chunk": [],
+    "G:\\creatorProject\\unityShaderBookToCocos3D\\assets\\chunks\\unlit-vs.chunk": [],
+    "G:\\creatorProject\\unityShaderBookToCocos3D\\assets\\chunks\\cc-global.chunk": [],
+    "G:\\creatorProject\\unityShaderBookToCocos3D\\assets\\chunks\\cc-local-batch.chunk": [],
+    "G:\\creatorProject\\unityShaderBookToCocos3D\\assets\\chunks\\cc-local.chunk": [],
+    "G:\\creatorProject\\unityShaderBookToCocos3D\\assets\\chunks\\input-standard.chunk": [],
+    "G:\\creatorProject\\unityShaderBookToCocos3D\\assets\\chunks\\decode-standard.chunk": [],
+    "G:\\creatorProject\\unityShaderBookToCocos3D\\assets\\chunks\\decode-base.chunk": [],
+    "G:\\creatorProject\\unityShaderBookToCocos3D\\assets\\chunks\\cc-skinning.chunk": [],
+    "G:\\creatorProject\\unityShaderBookToCocos3D\\assets\\chunks\\skinning-lbs.chunk": [],
+    "G:\\creatorProject\\unityShaderBookToCocos3D\\assets\\chunks\\unlit-fs.chunk": [],
+    "G:\\creatorProject\\unityShaderBookToCocos3D\\assets\\chunks\\texture-lod.chunk": []
   },
   "uuid2uuids": {
     "1baf0fc9-befa-459c-8bdd-af1a450a0319": [
@@ -127,7 +171,20 @@
       "5fba1328-43bb-4e9f-8218-768870390c4a"
     ],
     "8d54bb0f-b6f1-463b-9b5e-a3989dc4217b": [
-      "5fba1328-43bb-4e9f-8218-768870390c4a"
+      "5fba1328-43bb-4e9f-8218-768870390c4a",
+      "87bb1646-1545-40f9-824a-5658bb7aee3d",
+      "b3de4ada-ee21-4303-8df9-06c062f943f8"
+    ],
+    "3523bdc6-2436-401c-9933-de34a0a383cc": [
+      "87bb1646-1545-40f9-824a-5658bb7aee3d",
+      "8be8a193-e653-49d9-8336-7c6197262584",
+      "b3dba0be-e837-4ae6-837e-c194de4b4122"
+    ],
+    "e73deb30-410e-409c-9c30-5105a97d59f3": [
+      "b3dba0be-e837-4ae6-837e-c194de4b4122"
+    ],
+    "e7e3e851-94f5-4268-bb49-bf99279677b0": [
+      "8be8a193-e653-49d9-8336-7c6197262584"
     ]
   }
 }

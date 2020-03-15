@@ -72,8 +72,6 @@ CCProgram unlit-fs %{
     vec4 diffuseColor;
     vec4 specularColor;
     vec4 color;
-    vec2 mainTiling;
-    vec2 mainOffset;
     float gloss;
   };
   #if USE_TEXTURE
