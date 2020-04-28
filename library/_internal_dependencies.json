@@ -71,105 +71,105 @@
       "711ebe11-f673-4cd9-9a83-63c60ba54c5b"
     ],
     "G:\\CocosCreator\\CocosCreator3D_1_0_4\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\particle-common.chunk": [
-      "d1346436-ac96-4271-b863-1f4fdead95b0",
       "711ebe11-f673-4cd9-9a83-63c60ba54c5b",
-      "17debcc3-0a6b-4b8a-b00b-dc58b885581e"
+      "17debcc3-0a6b-4b8a-b00b-dc58b885581e",
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
     ],
     "G:\\CocosCreator\\CocosCreator3D_1_0_4\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\cc-global.chunk": [
       "60f7195c-ec2a-45eb-ba94-8955f60e81d0",
-      "9361fd90-ba52-4f84-aa93-6e878fd576ca",
-      "511d2633-09a7-4bdd-ac42-f778032124b3",
-      "31b152ff-f689-4082-a292-3eb5a0b33014",
-      "6624c63c-0e3d-4d5f-bd15-a7805b71c521",
-      "f1556893-88b6-4c65-8c16-a5256ef3ad25",
-      "27cc5a0b-ec0b-4a67-98cf-b42d4fa971de",
-      "871c3b6c-7379-419d-bda3-794b239ab90d",
-      "9d6c6bde-2fe2-44ee-883b-909608948b04",
       "cb2c332a-fa5e-4235-a129-f011634bb7ad",
+      "9d6c6bde-2fe2-44ee-883b-909608948b04",
       "4736e978-c8fa-449f-9cf6-fe0158ded9d7",
+      "27cc5a0b-ec0b-4a67-98cf-b42d4fa971de",
+      "9361fd90-ba52-4f84-aa93-6e878fd576ca",
+      "871c3b6c-7379-419d-bda3-794b239ab90d",
+      "f1556893-88b6-4c65-8c16-a5256ef3ad25",
       "ba35f02e-a81c-464c-bfc5-c788328da667",
-      "e4e4cb19-8dd2-450d-ad20-1a818263b8d3",
-      "a3e72674-c38f-4336-a285-1826b1799cd7",
-      "d1346436-ac96-4271-b863-1f4fdead95b0",
-      "711ebe11-f673-4cd9-9a83-63c60ba54c5b",
       "1baf0fc9-befa-459c-8bdd-af1a450a0319",
-      "1d08ef62-a503-4ce2-8b9a-46c90873f7d3",
-      "a7612b54-35e3-4238-a1a9-4a7b54635839",
       "a3cd009f-0ab0-420d-9278-b9fdab939bbc",
-      "17debcc3-0a6b-4b8a-b00b-dc58b885581e"
+      "a7612b54-35e3-4238-a1a9-4a7b54635839",
+      "a3e72674-c38f-4336-a285-1826b1799cd7",
+      "711ebe11-f673-4cd9-9a83-63c60ba54c5b",
+      "31b152ff-f689-4082-a292-3eb5a0b33014",
+      "511d2633-09a7-4bdd-ac42-f778032124b3",
+      "6624c63c-0e3d-4d5f-bd15-a7805b71c521",
+      "1d08ef62-a503-4ce2-8b9a-46c90873f7d3",
+      "17debcc3-0a6b-4b8a-b00b-dc58b885581e",
+      "d1346436-ac96-4271-b863-1f4fdead95b0",
+      "e4e4cb19-8dd2-450d-ad20-1a818263b8d3"
     ],
     "G:\\CocosCreator\\CocosCreator3D_1_0_4\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\cc-local.chunk": [
       "60f7195c-ec2a-45eb-ba94-8955f60e81d0",
+      "cb2c332a-fa5e-4235-a129-f011634bb7ad",
+      "9d6c6bde-2fe2-44ee-883b-909608948b04",
+      "27cc5a0b-ec0b-4a67-98cf-b42d4fa971de",
       "9361fd90-ba52-4f84-aa93-6e878fd576ca",
       "f1556893-88b6-4c65-8c16-a5256ef3ad25",
-      "27cc5a0b-ec0b-4a67-98cf-b42d4fa971de",
-      "9d6c6bde-2fe2-44ee-883b-909608948b04",
-      "cb2c332a-fa5e-4235-a129-f011634bb7ad",
       "ba35f02e-a81c-464c-bfc5-c788328da667",
-      "e4e4cb19-8dd2-450d-ad20-1a818263b8d3",
-      "a3e72674-c38f-4336-a285-1826b1799cd7",
-      "d1346436-ac96-4271-b863-1f4fdead95b0",
-      "711ebe11-f673-4cd9-9a83-63c60ba54c5b",
       "1baf0fc9-befa-459c-8bdd-af1a450a0319",
-      "1d08ef62-a503-4ce2-8b9a-46c90873f7d3",
-      "a7612b54-35e3-4238-a1a9-4a7b54635839",
       "a3cd009f-0ab0-420d-9278-b9fdab939bbc",
-      "17debcc3-0a6b-4b8a-b00b-dc58b885581e"
+      "a7612b54-35e3-4238-a1a9-4a7b54635839",
+      "a3e72674-c38f-4336-a285-1826b1799cd7",
+      "711ebe11-f673-4cd9-9a83-63c60ba54c5b",
+      "1d08ef62-a503-4ce2-8b9a-46c90873f7d3",
+      "17debcc3-0a6b-4b8a-b00b-dc58b885581e",
+      "d1346436-ac96-4271-b863-1f4fdead95b0",
+      "e4e4cb19-8dd2-450d-ad20-1a818263b8d3"
     ],
     "G:\\CocosCreator\\CocosCreator3D_1_0_4\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\transform.chunk": [
-      "d1346436-ac96-4271-b863-1f4fdead95b0",
       "711ebe11-f673-4cd9-9a83-63c60ba54c5b",
-      "17debcc3-0a6b-4b8a-b00b-dc58b885581e"
+      "17debcc3-0a6b-4b8a-b00b-dc58b885581e",
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
     ],
     "G:\\CocosCreator\\CocosCreator3D_1_0_4\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\tinted-fs.chunk": [
-      "d1346436-ac96-4271-b863-1f4fdead95b0",
       "711ebe11-f673-4cd9-9a83-63c60ba54c5b",
-      "17debcc3-0a6b-4b8a-b00b-dc58b885581e"
+      "17debcc3-0a6b-4b8a-b00b-dc58b885581e",
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
     ],
     "G:\\CocosCreator\\CocosCreator3D_1_0_4\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\output.chunk": [
-      "9361fd90-ba52-4f84-aa93-6e878fd576ca",
-      "f1556893-88b6-4c65-8c16-a5256ef3ad25",
-      "27cc5a0b-ec0b-4a67-98cf-b42d4fa971de",
-      "871c3b6c-7379-419d-bda3-794b239ab90d",
-      "9d6c6bde-2fe2-44ee-883b-909608948b04",
       "cb2c332a-fa5e-4235-a129-f011634bb7ad",
+      "9d6c6bde-2fe2-44ee-883b-909608948b04",
       "4736e978-c8fa-449f-9cf6-fe0158ded9d7",
+      "27cc5a0b-ec0b-4a67-98cf-b42d4fa971de",
+      "9361fd90-ba52-4f84-aa93-6e878fd576ca",
+      "871c3b6c-7379-419d-bda3-794b239ab90d",
+      "f1556893-88b6-4c65-8c16-a5256ef3ad25",
       "ba35f02e-a81c-464c-bfc5-c788328da667",
-      "e4e4cb19-8dd2-450d-ad20-1a818263b8d3",
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc",
+      "a7612b54-35e3-4238-a1a9-4a7b54635839",
       "a3e72674-c38f-4336-a285-1826b1799cd7",
-      "d1346436-ac96-4271-b863-1f4fdead95b0",
       "711ebe11-f673-4cd9-9a83-63c60ba54c5b",
       "1d08ef62-a503-4ce2-8b9a-46c90873f7d3",
-      "a7612b54-35e3-4238-a1a9-4a7b54635839",
-      "a3cd009f-0ab0-420d-9278-b9fdab939bbc",
-      "17debcc3-0a6b-4b8a-b00b-dc58b885581e"
+      "17debcc3-0a6b-4b8a-b00b-dc58b885581e",
+      "d1346436-ac96-4271-b863-1f4fdead95b0",
+      "e4e4cb19-8dd2-450d-ad20-1a818263b8d3"
     ],
     "G:\\CocosCreator\\CocosCreator3D_1_0_4\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\gamma.chunk": [
-      "9361fd90-ba52-4f84-aa93-6e878fd576ca",
-      "511d2633-09a7-4bdd-ac42-f778032124b3",
-      "31b152ff-f689-4082-a292-3eb5a0b33014",
-      "6624c63c-0e3d-4d5f-bd15-a7805b71c521",
-      "f1556893-88b6-4c65-8c16-a5256ef3ad25",
-      "27cc5a0b-ec0b-4a67-98cf-b42d4fa971de",
-      "871c3b6c-7379-419d-bda3-794b239ab90d",
-      "9d6c6bde-2fe2-44ee-883b-909608948b04",
       "cb2c332a-fa5e-4235-a129-f011634bb7ad",
+      "9d6c6bde-2fe2-44ee-883b-909608948b04",
       "4736e978-c8fa-449f-9cf6-fe0158ded9d7",
+      "27cc5a0b-ec0b-4a67-98cf-b42d4fa971de",
+      "9361fd90-ba52-4f84-aa93-6e878fd576ca",
+      "871c3b6c-7379-419d-bda3-794b239ab90d",
+      "f1556893-88b6-4c65-8c16-a5256ef3ad25",
       "ba35f02e-a81c-464c-bfc5-c788328da667",
-      "e4e4cb19-8dd2-450d-ad20-1a818263b8d3",
-      "a3e72674-c38f-4336-a285-1826b1799cd7",
-      "d1346436-ac96-4271-b863-1f4fdead95b0",
-      "711ebe11-f673-4cd9-9a83-63c60ba54c5b",
       "1baf0fc9-befa-459c-8bdd-af1a450a0319",
-      "1d08ef62-a503-4ce2-8b9a-46c90873f7d3",
-      "a7612b54-35e3-4238-a1a9-4a7b54635839",
       "a3cd009f-0ab0-420d-9278-b9fdab939bbc",
-      "17debcc3-0a6b-4b8a-b00b-dc58b885581e"
+      "a7612b54-35e3-4238-a1a9-4a7b54635839",
+      "a3e72674-c38f-4336-a285-1826b1799cd7",
+      "711ebe11-f673-4cd9-9a83-63c60ba54c5b",
+      "31b152ff-f689-4082-a292-3eb5a0b33014",
+      "511d2633-09a7-4bdd-ac42-f778032124b3",
+      "6624c63c-0e3d-4d5f-bd15-a7805b71c521",
+      "1d08ef62-a503-4ce2-8b9a-46c90873f7d3",
+      "17debcc3-0a6b-4b8a-b00b-dc58b885581e",
+      "d1346436-ac96-4271-b863-1f4fdead95b0",
+      "e4e4cb19-8dd2-450d-ad20-1a818263b8d3"
     ],
     "G:\\CocosCreator\\CocosCreator3D_1_0_4\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\no-tint-fs.chunk": [
-      "d1346436-ac96-4271-b863-1f4fdead95b0",
       "711ebe11-f673-4cd9-9a83-63c60ba54c5b",
-      "17debcc3-0a6b-4b8a-b00b-dc58b885581e"
+      "17debcc3-0a6b-4b8a-b00b-dc58b885581e",
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
     ],
     "G:\\CocosCreator\\CocosCreator3D_1_0_4\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\particle-vs-legacy.chunk": [
       "d1346436-ac96-4271-b863-1f4fdead95b0"
@@ -186,12 +186,12 @@
       "1baf0fc9-befa-459c-8bdd-af1a450a0319"
     ],
     "G:\\CocosCreator\\CocosCreator3D_1_0_4\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\cc-local-batch.chunk": [
+      "27cc5a0b-ec0b-4a67-98cf-b42d4fa971de",
       "9361fd90-ba52-4f84-aa93-6e878fd576ca",
       "f1556893-88b6-4c65-8c16-a5256ef3ad25",
-      "27cc5a0b-ec0b-4a67-98cf-b42d4fa971de",
       "1baf0fc9-befa-459c-8bdd-af1a450a0319",
-      "a7612b54-35e3-4238-a1a9-4a7b54635839",
-      "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc",
+      "a7612b54-35e3-4238-a1a9-4a7b54635839"
     ],
     "G:\\CocosCreator\\CocosCreator3D_1_0_4\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\input-standard.chunk": [
       "1baf0fc9-befa-459c-8bdd-af1a450a0319",
@@ -202,28 +202,28 @@
       "a7612b54-35e3-4238-a1a9-4a7b54635839"
     ],
     "G:\\CocosCreator\\CocosCreator3D_1_0_4\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\decode-base.chunk": [
+      "27cc5a0b-ec0b-4a67-98cf-b42d4fa971de",
       "9361fd90-ba52-4f84-aa93-6e878fd576ca",
       "f1556893-88b6-4c65-8c16-a5256ef3ad25",
-      "27cc5a0b-ec0b-4a67-98cf-b42d4fa971de",
       "1baf0fc9-befa-459c-8bdd-af1a450a0319",
-      "a7612b54-35e3-4238-a1a9-4a7b54635839",
-      "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc",
+      "a7612b54-35e3-4238-a1a9-4a7b54635839"
     ],
     "G:\\CocosCreator\\CocosCreator3D_1_0_4\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\cc-skinning.chunk": [
+      "27cc5a0b-ec0b-4a67-98cf-b42d4fa971de",
       "9361fd90-ba52-4f84-aa93-6e878fd576ca",
       "f1556893-88b6-4c65-8c16-a5256ef3ad25",
-      "27cc5a0b-ec0b-4a67-98cf-b42d4fa971de",
       "1baf0fc9-befa-459c-8bdd-af1a450a0319",
-      "a7612b54-35e3-4238-a1a9-4a7b54635839",
-      "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc",
+      "a7612b54-35e3-4238-a1a9-4a7b54635839"
     ],
     "G:\\CocosCreator\\CocosCreator3D_1_0_4\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\skinning-lbs.chunk": [
+      "27cc5a0b-ec0b-4a67-98cf-b42d4fa971de",
       "9361fd90-ba52-4f84-aa93-6e878fd576ca",
       "f1556893-88b6-4c65-8c16-a5256ef3ad25",
-      "27cc5a0b-ec0b-4a67-98cf-b42d4fa971de",
       "1baf0fc9-befa-459c-8bdd-af1a450a0319",
-      "a7612b54-35e3-4238-a1a9-4a7b54635839",
-      "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc",
+      "a7612b54-35e3-4238-a1a9-4a7b54635839"
     ],
     "G:\\CocosCreator\\CocosCreator3D_1_0_4\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\shared-ubos.chunk": [
       "1baf0fc9-befa-459c-8bdd-af1a450a0319"
@@ -235,22 +235,22 @@
       "1baf0fc9-befa-459c-8bdd-af1a450a0319"
     ],
     "G:\\CocosCreator\\CocosCreator3D_1_0_4\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\cc-environment.chunk": [
-      "511d2633-09a7-4bdd-ac42-f778032124b3",
-      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319",
+      "511d2633-09a7-4bdd-ac42-f778032124b3"
     ],
     "G:\\CocosCreator\\CocosCreator3D_1_0_4\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\unpack.chunk": [
-      "511d2633-09a7-4bdd-ac42-f778032124b3",
-      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319",
+      "511d2633-09a7-4bdd-ac42-f778032124b3"
     ],
     "G:\\CocosCreator\\CocosCreator3D_1_0_4\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\texture-lod.chunk": [
       "1baf0fc9-befa-459c-8bdd-af1a450a0319"
     ],
     "G:\\CocosCreator\\CocosCreator3D_1_0_4\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\common.chunk": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319",
+      "a7612b54-35e3-4238-a1a9-4a7b54635839",
       "31b152ff-f689-4082-a292-3eb5a0b33014",
       "6624c63c-0e3d-4d5f-bd15-a7805b71c521",
-      "e4e4cb19-8dd2-450d-ad20-1a818263b8d3",
-      "1baf0fc9-befa-459c-8bdd-af1a450a0319",
-      "a7612b54-35e3-4238-a1a9-4a7b54635839"
+      "e4e4cb19-8dd2-450d-ad20-1a818263b8d3"
     ],
     "G:\\CocosCreator\\CocosCreator3D_1_0_4\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\lighting.chunk": [
       "1baf0fc9-befa-459c-8bdd-af1a450a0319",
@@ -261,16 +261,16 @@
       "a7612b54-35e3-4238-a1a9-4a7b54635839"
     ],
     "G:\\CocosCreator\\CocosCreator3D_1_0_4\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\output-standard.chunk": [
-      "511d2633-09a7-4bdd-ac42-f778032124b3",
       "1baf0fc9-befa-459c-8bdd-af1a450a0319",
-      "a7612b54-35e3-4238-a1a9-4a7b54635839"
+      "a7612b54-35e3-4238-a1a9-4a7b54635839",
+      "511d2633-09a7-4bdd-ac42-f778032124b3"
     ],
     "G:\\CocosCreator\\CocosCreator3D_1_0_4\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\aces.chunk": [
-      "511d2633-09a7-4bdd-ac42-f778032124b3",
-      "31b152ff-f689-4082-a292-3eb5a0b33014",
-      "6624c63c-0e3d-4d5f-bd15-a7805b71c521",
       "1baf0fc9-befa-459c-8bdd-af1a450a0319",
-      "a7612b54-35e3-4238-a1a9-4a7b54635839"
+      "a7612b54-35e3-4238-a1a9-4a7b54635839",
+      "31b152ff-f689-4082-a292-3eb5a0b33014",
+      "511d2633-09a7-4bdd-ac42-f778032124b3",
+      "6624c63c-0e3d-4d5f-bd15-a7805b71c521"
     ],
     "G:\\CocosCreator\\CocosCreator3D_1_0_4\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\terrain-vs.chunk": [
       "1d08ef62-a503-4ce2-8b9a-46c90873f7d3"
@@ -294,27 +294,27 @@
       "a7612b54-35e3-4238-a1a9-4a7b54635839"
     ],
     "G:\\CocosCreator\\CocosCreator3D_1_0_4\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\unlit-vs.chunk": [
-      "f1556893-88b6-4c65-8c16-a5256ef3ad25",
       "27cc5a0b-ec0b-4a67-98cf-b42d4fa971de",
+      "f1556893-88b6-4c65-8c16-a5256ef3ad25",
       "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
     ],
     "G:\\CocosCreator\\CocosCreator3D_1_0_4\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\input.chunk": [
+      "27cc5a0b-ec0b-4a67-98cf-b42d4fa971de",
       "9361fd90-ba52-4f84-aa93-6e878fd576ca",
       "f1556893-88b6-4c65-8c16-a5256ef3ad25",
-      "27cc5a0b-ec0b-4a67-98cf-b42d4fa971de",
       "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
     ],
     "G:\\CocosCreator\\CocosCreator3D_1_0_4\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\decode.chunk": [
-      "9361fd90-ba52-4f84-aa93-6e878fd576ca",
-      "511d2633-09a7-4bdd-ac42-f778032124b3",
-      "f1556893-88b6-4c65-8c16-a5256ef3ad25",
       "27cc5a0b-ec0b-4a67-98cf-b42d4fa971de",
+      "9361fd90-ba52-4f84-aa93-6e878fd576ca",
       "871c3b6c-7379-419d-bda3-794b239ab90d",
-      "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
+      "f1556893-88b6-4c65-8c16-a5256ef3ad25",
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc",
+      "511d2633-09a7-4bdd-ac42-f778032124b3"
     ],
     "G:\\CocosCreator\\CocosCreator3D_1_0_4\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\unlit-fs.chunk": [
-      "f1556893-88b6-4c65-8c16-a5256ef3ad25",
       "27cc5a0b-ec0b-4a67-98cf-b42d4fa971de",
+      "f1556893-88b6-4c65-8c16-a5256ef3ad25",
       "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
     ],
     "G:\\CocosCreator\\CocosCreator3D_1_0_4\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\particle-trail.chunk": [
@@ -398,6 +398,338 @@
     ],
     "G:\\CocosCreator\\CocosCreator3D_1_0_4\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\terrain-brush-fs.chunk": [
       "a3e72674-c38f-4336-a285-1826b1799cd7"
+    ],
+    "G:\\creatorProject\\unityShaderBookToCocos3D\\assets\\chunks\\sprite-vs.chunk": [
+      "60f7195c-ec2a-45eb-ba94-8955f60e81d0",
+      "9d6c6bde-2fe2-44ee-883b-909608948b04"
+    ],
+    "G:\\creatorProject\\unityShaderBookToCocos3D\\assets\\chunks\\cc-global.chunk": [
+      "60f7195c-ec2a-45eb-ba94-8955f60e81d0",
+      "cb2c332a-fa5e-4235-a129-f011634bb7ad",
+      "9d6c6bde-2fe2-44ee-883b-909608948b04",
+      "4736e978-c8fa-449f-9cf6-fe0158ded9d7",
+      "27cc5a0b-ec0b-4a67-98cf-b42d4fa971de",
+      "9361fd90-ba52-4f84-aa93-6e878fd576ca",
+      "871c3b6c-7379-419d-bda3-794b239ab90d",
+      "f1556893-88b6-4c65-8c16-a5256ef3ad25",
+      "ba35f02e-a81c-464c-bfc5-c788328da667",
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319",
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc",
+      "a7612b54-35e3-4238-a1a9-4a7b54635839",
+      "a3e72674-c38f-4336-a285-1826b1799cd7",
+      "711ebe11-f673-4cd9-9a83-63c60ba54c5b",
+      "31b152ff-f689-4082-a292-3eb5a0b33014",
+      "511d2633-09a7-4bdd-ac42-f778032124b3",
+      "6624c63c-0e3d-4d5f-bd15-a7805b71c521",
+      "1d08ef62-a503-4ce2-8b9a-46c90873f7d3",
+      "17debcc3-0a6b-4b8a-b00b-dc58b885581e",
+      "d1346436-ac96-4271-b863-1f4fdead95b0",
+      "e4e4cb19-8dd2-450d-ad20-1a818263b8d3"
+    ],
+    "G:\\creatorProject\\unityShaderBookToCocos3D\\assets\\chunks\\cc-local.chunk": [
+      "60f7195c-ec2a-45eb-ba94-8955f60e81d0",
+      "cb2c332a-fa5e-4235-a129-f011634bb7ad",
+      "9d6c6bde-2fe2-44ee-883b-909608948b04",
+      "27cc5a0b-ec0b-4a67-98cf-b42d4fa971de",
+      "9361fd90-ba52-4f84-aa93-6e878fd576ca",
+      "f1556893-88b6-4c65-8c16-a5256ef3ad25",
+      "ba35f02e-a81c-464c-bfc5-c788328da667",
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319",
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc",
+      "a7612b54-35e3-4238-a1a9-4a7b54635839",
+      "a3e72674-c38f-4336-a285-1826b1799cd7",
+      "711ebe11-f673-4cd9-9a83-63c60ba54c5b",
+      "1d08ef62-a503-4ce2-8b9a-46c90873f7d3",
+      "17debcc3-0a6b-4b8a-b00b-dc58b885581e",
+      "d1346436-ac96-4271-b863-1f4fdead95b0",
+      "e4e4cb19-8dd2-450d-ad20-1a818263b8d3"
+    ],
+    "G:\\creatorProject\\unityShaderBookToCocos3D\\assets\\chunks\\sprite-fs.chunk": [
+      "60f7195c-ec2a-45eb-ba94-8955f60e81d0",
+      "9d6c6bde-2fe2-44ee-883b-909608948b04"
+    ],
+    "G:\\creatorProject\\unityShaderBookToCocos3D\\assets\\chunks\\planar-shadow-vs.chunk": [
+      "9361fd90-ba52-4f84-aa93-6e878fd576ca"
+    ],
+    "G:\\creatorProject\\unityShaderBookToCocos3D\\assets\\chunks\\cc-local-batch.chunk": [
+      "27cc5a0b-ec0b-4a67-98cf-b42d4fa971de",
+      "9361fd90-ba52-4f84-aa93-6e878fd576ca",
+      "f1556893-88b6-4c65-8c16-a5256ef3ad25",
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319",
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc",
+      "a7612b54-35e3-4238-a1a9-4a7b54635839"
+    ],
+    "G:\\creatorProject\\unityShaderBookToCocos3D\\assets\\chunks\\cc-shadow.chunk": [
+      "9361fd90-ba52-4f84-aa93-6e878fd576ca"
+    ],
+    "G:\\creatorProject\\unityShaderBookToCocos3D\\assets\\chunks\\input.chunk": [
+      "27cc5a0b-ec0b-4a67-98cf-b42d4fa971de",
+      "9361fd90-ba52-4f84-aa93-6e878fd576ca",
+      "f1556893-88b6-4c65-8c16-a5256ef3ad25",
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
+    ],
+    "G:\\creatorProject\\unityShaderBookToCocos3D\\assets\\chunks\\decode.chunk": [
+      "27cc5a0b-ec0b-4a67-98cf-b42d4fa971de",
+      "9361fd90-ba52-4f84-aa93-6e878fd576ca",
+      "871c3b6c-7379-419d-bda3-794b239ab90d",
+      "f1556893-88b6-4c65-8c16-a5256ef3ad25",
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc",
+      "511d2633-09a7-4bdd-ac42-f778032124b3"
+    ],
+    "G:\\creatorProject\\unityShaderBookToCocos3D\\assets\\chunks\\cc-skinning.chunk": [
+      "27cc5a0b-ec0b-4a67-98cf-b42d4fa971de",
+      "9361fd90-ba52-4f84-aa93-6e878fd576ca",
+      "f1556893-88b6-4c65-8c16-a5256ef3ad25",
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319",
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc",
+      "a7612b54-35e3-4238-a1a9-4a7b54635839"
+    ],
+    "G:\\creatorProject\\unityShaderBookToCocos3D\\assets\\chunks\\decode-base.chunk": [
+      "27cc5a0b-ec0b-4a67-98cf-b42d4fa971de",
+      "9361fd90-ba52-4f84-aa93-6e878fd576ca",
+      "f1556893-88b6-4c65-8c16-a5256ef3ad25",
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319",
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc",
+      "a7612b54-35e3-4238-a1a9-4a7b54635839"
+    ],
+    "G:\\creatorProject\\unityShaderBookToCocos3D\\assets\\chunks\\skinning-lbs.chunk": [
+      "27cc5a0b-ec0b-4a67-98cf-b42d4fa971de",
+      "9361fd90-ba52-4f84-aa93-6e878fd576ca",
+      "f1556893-88b6-4c65-8c16-a5256ef3ad25",
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319",
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc",
+      "a7612b54-35e3-4238-a1a9-4a7b54635839"
+    ],
+    "G:\\creatorProject\\unityShaderBookToCocos3D\\assets\\chunks\\planar-shadow-fs.chunk": [
+      "9361fd90-ba52-4f84-aa93-6e878fd576ca"
+    ],
+    "G:\\creatorProject\\unityShaderBookToCocos3D\\assets\\chunks\\output.chunk": [
+      "cb2c332a-fa5e-4235-a129-f011634bb7ad",
+      "9d6c6bde-2fe2-44ee-883b-909608948b04",
+      "4736e978-c8fa-449f-9cf6-fe0158ded9d7",
+      "27cc5a0b-ec0b-4a67-98cf-b42d4fa971de",
+      "9361fd90-ba52-4f84-aa93-6e878fd576ca",
+      "871c3b6c-7379-419d-bda3-794b239ab90d",
+      "f1556893-88b6-4c65-8c16-a5256ef3ad25",
+      "ba35f02e-a81c-464c-bfc5-c788328da667",
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc",
+      "a7612b54-35e3-4238-a1a9-4a7b54635839",
+      "a3e72674-c38f-4336-a285-1826b1799cd7",
+      "711ebe11-f673-4cd9-9a83-63c60ba54c5b",
+      "1d08ef62-a503-4ce2-8b9a-46c90873f7d3",
+      "17debcc3-0a6b-4b8a-b00b-dc58b885581e",
+      "d1346436-ac96-4271-b863-1f4fdead95b0",
+      "e4e4cb19-8dd2-450d-ad20-1a818263b8d3"
+    ],
+    "G:\\creatorProject\\unityShaderBookToCocos3D\\assets\\chunks\\gamma.chunk": [
+      "cb2c332a-fa5e-4235-a129-f011634bb7ad",
+      "9d6c6bde-2fe2-44ee-883b-909608948b04",
+      "4736e978-c8fa-449f-9cf6-fe0158ded9d7",
+      "27cc5a0b-ec0b-4a67-98cf-b42d4fa971de",
+      "9361fd90-ba52-4f84-aa93-6e878fd576ca",
+      "871c3b6c-7379-419d-bda3-794b239ab90d",
+      "f1556893-88b6-4c65-8c16-a5256ef3ad25",
+      "ba35f02e-a81c-464c-bfc5-c788328da667",
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319",
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc",
+      "a7612b54-35e3-4238-a1a9-4a7b54635839",
+      "a3e72674-c38f-4336-a285-1826b1799cd7",
+      "711ebe11-f673-4cd9-9a83-63c60ba54c5b",
+      "31b152ff-f689-4082-a292-3eb5a0b33014",
+      "511d2633-09a7-4bdd-ac42-f778032124b3",
+      "6624c63c-0e3d-4d5f-bd15-a7805b71c521",
+      "1d08ef62-a503-4ce2-8b9a-46c90873f7d3",
+      "17debcc3-0a6b-4b8a-b00b-dc58b885581e",
+      "d1346436-ac96-4271-b863-1f4fdead95b0",
+      "e4e4cb19-8dd2-450d-ad20-1a818263b8d3"
+    ],
+    "G:\\creatorProject\\unityShaderBookToCocos3D\\assets\\chunks\\sky-vs.chunk": [
+      "511d2633-09a7-4bdd-ac42-f778032124b3"
+    ],
+    "G:\\creatorProject\\unityShaderBookToCocos3D\\assets\\chunks\\sky-fs.chunk": [
+      "511d2633-09a7-4bdd-ac42-f778032124b3"
+    ],
+    "G:\\creatorProject\\unityShaderBookToCocos3D\\assets\\chunks\\cc-environment.chunk": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319",
+      "511d2633-09a7-4bdd-ac42-f778032124b3"
+    ],
+    "G:\\creatorProject\\unityShaderBookToCocos3D\\assets\\chunks\\unpack.chunk": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319",
+      "511d2633-09a7-4bdd-ac42-f778032124b3"
+    ],
+    "G:\\creatorProject\\unityShaderBookToCocos3D\\assets\\chunks\\output-standard.chunk": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319",
+      "a7612b54-35e3-4238-a1a9-4a7b54635839",
+      "511d2633-09a7-4bdd-ac42-f778032124b3"
+    ],
+    "G:\\creatorProject\\unityShaderBookToCocos3D\\assets\\chunks\\aces.chunk": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319",
+      "a7612b54-35e3-4238-a1a9-4a7b54635839",
+      "31b152ff-f689-4082-a292-3eb5a0b33014",
+      "511d2633-09a7-4bdd-ac42-f778032124b3",
+      "6624c63c-0e3d-4d5f-bd15-a7805b71c521"
+    ],
+    "G:\\creatorProject\\unityShaderBookToCocos3D\\assets\\chunks\\tonemap-vs.chunk": [
+      "31b152ff-f689-4082-a292-3eb5a0b33014"
+    ],
+    "G:\\creatorProject\\unityShaderBookToCocos3D\\assets\\chunks\\common.chunk": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319",
+      "a7612b54-35e3-4238-a1a9-4a7b54635839",
+      "31b152ff-f689-4082-a292-3eb5a0b33014",
+      "6624c63c-0e3d-4d5f-bd15-a7805b71c521",
+      "e4e4cb19-8dd2-450d-ad20-1a818263b8d3"
+    ],
+    "G:\\creatorProject\\unityShaderBookToCocos3D\\assets\\chunks\\tonemap-fs.chunk": [
+      "31b152ff-f689-4082-a292-3eb5a0b33014"
+    ],
+    "G:\\creatorProject\\unityShaderBookToCocos3D\\assets\\chunks\\smaa-edge-vs.chunk": [
+      "6624c63c-0e3d-4d5f-bd15-a7805b71c521"
+    ],
+    "G:\\creatorProject\\unityShaderBookToCocos3D\\assets\\chunks\\smaa-edge-fs.chunk": [
+      "6624c63c-0e3d-4d5f-bd15-a7805b71c521"
+    ],
+    "G:\\creatorProject\\unityShaderBookToCocos3D\\assets\\chunks\\smaa-blend-vs.chunk": [
+      "6624c63c-0e3d-4d5f-bd15-a7805b71c521"
+    ],
+    "G:\\creatorProject\\unityShaderBookToCocos3D\\assets\\chunks\\smaa-blend-fs.chunk": [
+      "6624c63c-0e3d-4d5f-bd15-a7805b71c521"
+    ],
+    "G:\\creatorProject\\unityShaderBookToCocos3D\\assets\\chunks\\unlit-vs.chunk": [
+      "27cc5a0b-ec0b-4a67-98cf-b42d4fa971de",
+      "f1556893-88b6-4c65-8c16-a5256ef3ad25",
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
+    ],
+    "G:\\creatorProject\\unityShaderBookToCocos3D\\assets\\chunks\\unlit-fs.chunk": [
+      "27cc5a0b-ec0b-4a67-98cf-b42d4fa971de",
+      "f1556893-88b6-4c65-8c16-a5256ef3ad25",
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
+    ],
+    "G:\\creatorProject\\unityShaderBookToCocos3D\\assets\\chunks\\grid-vs.chunk": [
+      "cb2c332a-fa5e-4235-a129-f011634bb7ad",
+      "4736e978-c8fa-449f-9cf6-fe0158ded9d7",
+      "ba35f02e-a81c-464c-bfc5-c788328da667"
+    ],
+    "G:\\creatorProject\\unityShaderBookToCocos3D\\assets\\chunks\\grid-fs.chunk": [
+      "cb2c332a-fa5e-4235-a129-f011634bb7ad",
+      "4736e978-c8fa-449f-9cf6-fe0158ded9d7",
+      "ba35f02e-a81c-464c-bfc5-c788328da667"
+    ],
+    "G:\\creatorProject\\unityShaderBookToCocos3D\\assets\\chunks\\gizmo-vs.chunk": [
+      "9d6c6bde-2fe2-44ee-883b-909608948b04"
+    ],
+    "G:\\creatorProject\\unityShaderBookToCocos3D\\assets\\chunks\\gizmo-fs.chunk": [
+      "9d6c6bde-2fe2-44ee-883b-909608948b04"
+    ],
+    "G:\\creatorProject\\unityShaderBookToCocos3D\\assets\\chunks\\rect-area-light.chunk": [
+      "9d6c6bde-2fe2-44ee-883b-909608948b04"
+    ],
+    "G:\\creatorProject\\unityShaderBookToCocos3D\\assets\\chunks\\line-vs.chunk": [
+      "9d6c6bde-2fe2-44ee-883b-909608948b04"
+    ],
+    "G:\\creatorProject\\unityShaderBookToCocos3D\\assets\\chunks\\line-fs.chunk": [
+      "9d6c6bde-2fe2-44ee-883b-909608948b04"
+    ],
+    "G:\\creatorProject\\unityShaderBookToCocos3D\\assets\\chunks\\profiler-vs.chunk": [
+      "871c3b6c-7379-419d-bda3-794b239ab90d"
+    ],
+    "G:\\creatorProject\\unityShaderBookToCocos3D\\assets\\chunks\\profiler-fs.chunk": [
+      "871c3b6c-7379-419d-bda3-794b239ab90d"
+    ],
+    "G:\\creatorProject\\unityShaderBookToCocos3D\\assets\\chunks\\terrain-brush-vs.chunk": [
+      "a3e72674-c38f-4336-a285-1826b1799cd7"
+    ],
+    "G:\\creatorProject\\unityShaderBookToCocos3D\\assets\\chunks\\terrain-brush-fs.chunk": [
+      "a3e72674-c38f-4336-a285-1826b1799cd7"
+    ],
+    "G:\\creatorProject\\unityShaderBookToCocos3D\\assets\\chunks\\light-vs.chunk": [
+      "e4e4cb19-8dd2-450d-ad20-1a818263b8d3"
+    ],
+    "G:\\creatorProject\\unityShaderBookToCocos3D\\assets\\chunks\\ubo.chunk": [
+      "e4e4cb19-8dd2-450d-ad20-1a818263b8d3"
+    ],
+    "G:\\creatorProject\\unityShaderBookToCocos3D\\assets\\chunks\\light-fs.chunk": [
+      "e4e4cb19-8dd2-450d-ad20-1a818263b8d3"
+    ],
+    "G:\\creatorProject\\unityShaderBookToCocos3D\\assets\\chunks\\particle-vs-legacy.chunk": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "G:\\creatorProject\\unityShaderBookToCocos3D\\assets\\chunks\\transform.chunk": [
+      "711ebe11-f673-4cd9-9a83-63c60ba54c5b",
+      "17debcc3-0a6b-4b8a-b00b-dc58b885581e",
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "G:\\creatorProject\\unityShaderBookToCocos3D\\assets\\chunks\\particle-common.chunk": [
+      "711ebe11-f673-4cd9-9a83-63c60ba54c5b",
+      "17debcc3-0a6b-4b8a-b00b-dc58b885581e",
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "G:\\creatorProject\\unityShaderBookToCocos3D\\assets\\chunks\\tinted-fs.chunk": [
+      "711ebe11-f673-4cd9-9a83-63c60ba54c5b",
+      "17debcc3-0a6b-4b8a-b00b-dc58b885581e",
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "G:\\creatorProject\\unityShaderBookToCocos3D\\assets\\chunks\\no-tint-fs.chunk": [
+      "711ebe11-f673-4cd9-9a83-63c60ba54c5b",
+      "17debcc3-0a6b-4b8a-b00b-dc58b885581e",
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "G:\\creatorProject\\unityShaderBookToCocos3D\\assets\\chunks\\standard-vs.chunk": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "G:\\creatorProject\\unityShaderBookToCocos3D\\assets\\chunks\\input-standard.chunk": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319",
+      "a7612b54-35e3-4238-a1a9-4a7b54635839"
+    ],
+    "G:\\creatorProject\\unityShaderBookToCocos3D\\assets\\chunks\\decode-standard.chunk": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319",
+      "a7612b54-35e3-4238-a1a9-4a7b54635839"
+    ],
+    "G:\\creatorProject\\unityShaderBookToCocos3D\\assets\\chunks\\shared-ubos.chunk": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "G:\\creatorProject\\unityShaderBookToCocos3D\\assets\\chunks\\standard-fs.chunk": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "G:\\creatorProject\\unityShaderBookToCocos3D\\assets\\chunks\\shading-standard.chunk": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "G:\\creatorProject\\unityShaderBookToCocos3D\\assets\\chunks\\texture-lod.chunk": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "G:\\creatorProject\\unityShaderBookToCocos3D\\assets\\chunks\\lighting.chunk": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319",
+      "a7612b54-35e3-4238-a1a9-4a7b54635839"
+    ],
+    "G:\\creatorProject\\unityShaderBookToCocos3D\\assets\\chunks\\cc-forward-light.chunk": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319",
+      "a7612b54-35e3-4238-a1a9-4a7b54635839"
+    ],
+    "G:\\creatorProject\\unityShaderBookToCocos3D\\assets\\chunks\\vert.chunk": [
+      "711ebe11-f673-4cd9-9a83-63c60ba54c5b"
+    ],
+    "G:\\creatorProject\\unityShaderBookToCocos3D\\assets\\chunks\\outline-vs.chunk": [
+      "a7612b54-35e3-4238-a1a9-4a7b54635839"
+    ],
+    "G:\\creatorProject\\unityShaderBookToCocos3D\\assets\\chunks\\outline-fs.chunk": [
+      "a7612b54-35e3-4238-a1a9-4a7b54635839"
+    ],
+    "G:\\creatorProject\\unityShaderBookToCocos3D\\assets\\chunks\\toon-vs.chunk": [
+      "a7612b54-35e3-4238-a1a9-4a7b54635839"
+    ],
+    "G:\\creatorProject\\unityShaderBookToCocos3D\\assets\\chunks\\toon-fs.chunk": [
+      "a7612b54-35e3-4238-a1a9-4a7b54635839"
+    ],
+    "G:\\creatorProject\\unityShaderBookToCocos3D\\assets\\chunks\\shading-toon.chunk": [
+      "a7612b54-35e3-4238-a1a9-4a7b54635839"
+    ],
+    "G:\\creatorProject\\unityShaderBookToCocos3D\\assets\\chunks\\terrain-vs.chunk": [
+      "1d08ef62-a503-4ce2-8b9a-46c90873f7d3"
+    ],
+    "G:\\creatorProject\\unityShaderBookToCocos3D\\assets\\chunks\\terrain-fs.chunk": [
+      "1d08ef62-a503-4ce2-8b9a-46c90873f7d3"
+    ],
+    "G:\\creatorProject\\unityShaderBookToCocos3D\\assets\\chunks\\particle-trail.chunk": [
+      "17debcc3-0a6b-4b8a-b00b-dc58b885581e"
     ]
   },
   "uuid2uuids": {

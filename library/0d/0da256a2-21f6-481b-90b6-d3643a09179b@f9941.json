@@ -1,7 +1,6 @@
 {
   "__type__": "cc.SpriteFrame",
   "content": {
-    "image": "0da256a2-21f6-481b-90b6-d3643a09179b",
     "name": "default_scrollbar",
     "atlas": "",
     "rect": {
@@ -24,6 +23,7 @@
       0,
       0,
       0
-    ]
+    ],
+    "texture": "0da256a2-21f6-481b-90b6-d3643a09179b@6c48a"
   }
 }

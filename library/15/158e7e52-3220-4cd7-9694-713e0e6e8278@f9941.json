@@ -1,7 +1,6 @@
 {
   "__type__": "cc.SpriteFrame",
   "content": {
-    "image": "158e7e52-3220-4cd7-9694-713e0e6e8278",
     "name": "default_toggle_checkmark",
     "atlas": "",
     "rect": {
@@ -24,6 +23,7 @@
       0,
       0,
       0
-    ]
+    ],
+    "texture": "158e7e52-3220-4cd7-9694-713e0e6e8278@6c48a"
   }
 }

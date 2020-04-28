@@ -1,7 +1,6 @@
 {
   "__type__": "cc.SpriteFrame",
   "content": {
-    "image": "9fd900dd-221b-4f89-8f2c-fba34243c835",
     "name": "default_progressbar_bg",
     "atlas": "",
     "rect": {
@@ -24,6 +23,7 @@
       4,
       10,
       4
-    ]
+    ],
+    "texture": "9fd900dd-221b-4f89-8f2c-fba34243c835@6c48a"
   }
 }

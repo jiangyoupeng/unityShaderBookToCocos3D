@@ -1,15 +1,12 @@
 {
-  "ver": "1.0.16",
+  "ver": "1.0.17",
+  "importer": "image",
+  "imported": true,
   "uuid": "7d948500-79c3-4e74-b21f-5b831f866431",
-  "type": "sprite",
-  "wrapMode": "clamp",
-  "filterMode": "bilinear",
-  "premultiplyAlpha": false,
-  "genMipmaps": false,
-  "packable": true,
-  "width": 1024,
-  "height": 1024,
-  "platformSettings": {},
+  "files": [
+    ".jpg",
+    ".json"
+  ],
   "subMetas": {
     "6c48a": {
       "ver": "1.0.19",
@@ -36,12 +33,6 @@
       "name": "texture"
     }
   },
-  "importer": "image",
-  "imported": true,
-  "files": [
-    ".jpg",
-    ".json"
-  ],
   "userData": {
     "type": "texture",
     "redirect": "7d948500-79c3-4e74-b21f-5b831f866431@6c48a"

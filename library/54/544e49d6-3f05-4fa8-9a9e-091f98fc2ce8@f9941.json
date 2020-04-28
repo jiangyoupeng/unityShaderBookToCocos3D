@@ -1,7 +1,6 @@
 {
   "__type__": "cc.SpriteFrame",
   "content": {
-    "image": "544e49d6-3f05-4fa8-9a9e-091f98fc2ce8",
     "name": "default_btn_pressed",
     "atlas": "",
     "rect": {
@@ -24,6 +23,7 @@
       12,
       12,
       12
-    ]
+    ],
+    "texture": "544e49d6-3f05-4fa8-9a9e-091f98fc2ce8@6c48a"
   }
 }

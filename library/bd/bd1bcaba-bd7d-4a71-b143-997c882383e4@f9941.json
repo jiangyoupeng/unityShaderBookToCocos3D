@@ -1,7 +1,6 @@
 {
   "__type__": "cc.SpriteFrame",
   "content": {
-    "image": "bd1bcaba-bd7d-4a71-b143-997c882383e4",
     "name": "default_editbox_bg",
     "atlas": "",
     "rect": {
@@ -24,6 +23,7 @@
       12,
       12,
       12
-    ]
+    ],
+    "texture": "bd1bcaba-bd7d-4a71-b143-997c882383e4@6c48a"
   }
 }

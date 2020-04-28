@@ -1,7 +1,6 @@
 {
   "__type__": "cc.SpriteFrame",
   "content": {
-    "image": "f12a23c4-b924-4322-a260-3d982428f1e8",
     "name": "default_radio_button_off",
     "atlas": "",
     "rect": {
@@ -24,6 +23,7 @@
       13,
       13,
       13
-    ]
+    ],
+    "texture": "f12a23c4-b924-4322-a260-3d982428f1e8@6c48a"
   }
 }
