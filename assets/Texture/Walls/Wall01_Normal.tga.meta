@@ -1,0 +1,40 @@
+{
+  "ver": "1.0.17",
+  "importer": "image",
+  "imported": true,
+  "uuid": "b71d7be2-44e1-4621-8134-55d9dd019dca",
+  "files": [
+    ".png",
+    ".json"
+  ],
+  "subMetas": {
+    "3c318": {
+      "importer": "texture",
+      "uuid": "b71d7be2-44e1-4621-8134-55d9dd019dca@3c318",
+      "displayName": "Wall01_Normal",
+      "id": "3c318",
+      "name": "normalMap",
+      "ver": "1.0.19",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "linear",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "b71d7be2-44e1-4621-8134-55d9dd019dca"
+      }
+    }
+  },
+  "userData": {
+    "type": "normal map",
+    "redirect": "b71d7be2-44e1-4621-8134-55d9dd019dca@3c318"
+  }
+}

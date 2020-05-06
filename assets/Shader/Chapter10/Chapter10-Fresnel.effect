@@ -1,0 +1,74 @@
+// Effect Syntax Guide: https://github.com/cocos-creator/docs-3d/blob/master/zh/material-system/effect-syntax.md
+
+CCEffect %{
+  techniques:
+  - name: opaque
+    passes:
+    - vert: unlit-vs:vert # builtin header
+      frag: unlit-fs:frag
+      properties: &props
+        _Color: { value: [1, 1, 1, 1], editor: {type: color} }
+        _FresnelScale: { value: 1, editor: {range: [0, 1, 0.1]}}
+        _Cubemap: { value: white-cube }
+}%
+
+CCProgram unlit-vs %{
+  precision highp float;
+  #include <cc-global>
+  #include <cc-local-batch>
+  #include <input-standard>
+
+  in vec2 a_texCoord;
+  in vec4 a_color;
+
+  out vec3 v_worldNormal;
+  out vec3 v_worldPos;
+  out vec3 v_worldViewDir;
+  out vec3 v_worldRefl;
+  uniform samplerCube _Cubemap;
+  uniform VsConstant {
+    vec4 _Color;
+    float _FresnelScale;
+  };
+
+  vec4 vert () {
+    StandardVertInput In;
+    CCVertInput(In);
+    mat4 matWorld, matWorldIT;
+    CCGetWorldMatrixFull(matWorld, matWorldIT);
+    vec4 position = In.position;
+    v_worldNormal = normalize((matWorldIT * vec4(In.normal, 0)).xyz);
+    v_worldPos = (matWorld * position).xyz;  
+    v_worldViewDir = cc_cameraPos.xyz - v_worldPos;
+    v_worldRefl = reflect(-v_worldViewDir, v_worldNormal);
+
+    return cc_matProj * (cc_matView * matWorld) * In.position;
+  }
+}%
+
+CCProgram unlit-fs %{
+  precision highp float;
+  #include <cc-global>
+  #include <texture-lod>
+
+  in vec3 v_worldPos;
+  in vec3 v_worldNormal;
+  in vec3 v_worldViewDir;
+  in vec3 v_worldRefl;
+  uniform samplerCube _Cubemap;
+  uniform VsConstant {
+    vec4 _Color;
+    float _FresnelScale;
+  };
+  vec4 frag () {
+    vec3 worldNormal = normalize(v_worldNormal);
+    vec3 worldViewDir = normalize(v_worldViewDir);
+    vec3 worldLightDir = normalize(-cc_mainLitDir.xyz);
+    vec3 ambient = cc_ambientGround.rgb;
+    vec4 reflection = fragTextureLod(_Cubemap, v_worldRefl, cc_ambientGround.w);
+    float fresnel = _FresnelScale + (1. - _FresnelScale) * pow(1. - dot(worldViewDir, worldNormal), 5.);
+    vec3 diffuse = cc_mainLitColor.rgb * _Color.rgb * max(0., dot(worldNormal, worldViewDir));
+    vec3 color = ambient + mix(diffuse, reflection.xyz, clamp(fresnel, 0., 1.));
+    return vec4(color, 1.);
+  }
+}%

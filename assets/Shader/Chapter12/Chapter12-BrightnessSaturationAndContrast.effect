@@ -1,0 +1,78 @@
+// Effect Syntax Guide: https://github.com/cocos-creator/docs-3d/blob/master/zh/material-system/effect-syntax.md
+
+CCEffect %{
+  techniques:
+  - name: opaque
+    passes:
+    - vert: unlit-vs:vert # builtin header
+      frag: unlit-fs:frag
+      properties: &props
+        _MainTex: { value: white }
+        mainTiling: { value: [1, 1] }
+        mainOffset: { value: [0, 0] }
+        _Brightness: {value: 1}
+        _Saturation: {value: 1}
+        _Contrast: {value: 1}
+      rasterizerState: {cullMode: none}
+}%
+
+CCProgram unlit-vs %{
+  precision highp float;
+  #include <cc-global>
+  #include <cc-local-batch>
+  #include <input-standard>
+
+  in vec2 a_texCoord;
+  in vec4 a_color;
+  #if USE_TEXTURE
+    out vec2 v_uv0;
+  #endif
+  uniform VsConstant {
+    vec2 mainTiling;
+    vec2 mainOffset;
+  };
+
+  vec4 vert () {
+    StandardVertInput In;
+    CCVertInput(In);
+    mat4 matWorld, matWorldIT;
+    CCGetWorldMatrixFull(matWorld, matWorldIT);
+    vec4 position = In.position;
+    #if USE_TEXTURE
+      v_uv0 = a_texCoord * mainTiling + mainOffset;
+    #endif
+    return cc_matProj * (cc_matView * matWorld) * In.position;
+  }
+}%
+CCProgram unlit-fs %{
+  precision highp float;
+  #include <cc-global>
+  #include <texture-lod>
+  #if USE_TEXTURE
+    in vec2 v_uv0;
+    uniform sampler2D _MainTex;
+  #endif
+  uniform FsConstant {
+    float _Brightness;
+    float _Saturation;
+    float _Contrast;
+  };
+
+  vec4 frag () {
+    vec4 renderTex = texture(_MainTex, v_uv0);
+
+    // Apply brightness
+    vec3 finalColor = renderTex.rgb * _Brightness;
+
+    // Apply saturation
+    float luminance = 0.2125 * renderTex.r + 0.7154 * renderTex.g + 0.0721 * renderTex.b;
+    vec3 luminanceColor = vec3(luminance, luminance, luminance);
+    finalColor = mix(luminanceColor, finalColor, _Saturation);
+
+    // Apply contrast
+    vec3 avgColor = vec3(0.5, 0.5, 0.5);
+    finalColor = mix(avgColor, finalColor, _Contrast);
+
+    return vec4(finalColor, renderTex.a);
+  }
+}%

@@ -1,0 +1,40 @@
+{
+  "ver": "1.0.17",
+  "importer": "image",
+  "imported": true,
+  "uuid": "bf8cebb6-741f-4c34-ac0d-9e46707914ff",
+  "files": [
+    ".jpg",
+    ".json"
+  ],
+  "subMetas": {
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "bf8cebb6-741f-4c34-ac0d-9e46707914ff@6c48a",
+      "displayName": "sakura0",
+      "id": "6c48a",
+      "name": "texture",
+      "ver": "1.0.19",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "bf8cebb6-741f-4c34-ac0d-9e46707914ff"
+      }
+    }
+  },
+  "userData": {
+    "type": "texture",
+    "redirect": "bf8cebb6-741f-4c34-ac0d-9e46707914ff@6c48a"
+  }
+}

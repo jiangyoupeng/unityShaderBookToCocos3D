@@ -4,11 +4,10 @@
   "_objFlags": 0,
   "_native": "",
   "_effectAsset": {
-    "__uuid__": "a4f3c9f5-44d9-432c-b213-71f706a30cdb"
+    "__uuid__": "1baf0fc9-befa-459c-8bdd-af1a450a0319"
   },
   "_techIdx": 0,
   "_defines": [
-    {},
     {}
   ],
   "_states": [
@@ -20,27 +19,9 @@
       },
       "depthStencilState": {},
       "rasterizerState": {}
-    },
-    {
-      "blendState": {
-        "targets": [
-          {}
-        ]
-      },
-      "depthStencilState": {},
-      "rasterizerState": {}
     }
   ],
   "_props": [
-    {
-      "mainColor": {
-        "__type__": "cc.Color",
-        "r": 104,
-        "g": 43,
-        "b": 43,
-        "a": 255
-      }
-    },
     {}
   ]
 }

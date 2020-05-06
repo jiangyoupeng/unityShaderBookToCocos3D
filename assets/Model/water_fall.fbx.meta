@@ -1,0 +1,75 @@
+{
+  "ver": "1.3.19",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "ce57595c-fc61-4046-88ca-395f29370b78",
+  "files": [],
+  "subMetas": {
+    "9a84c": {
+      "importer": "gltf-mesh",
+      "uuid": "ce57595c-fc61-4046-88ca-395f29370b78@9a84c",
+      "displayName": "",
+      "id": "9a84c",
+      "name": "平面.mesh",
+      "ver": "1.0.9",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    },
+    "ea6e2": {
+      "importer": "gltf-material",
+      "uuid": "ce57595c-fc61-4046-88ca-395f29370b78@ea6e2",
+      "displayName": "",
+      "id": "ea6e2",
+      "name": "DefaultMaterial.material",
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    },
+    "d8c17": {
+      "importer": "gltf-scene",
+      "uuid": "ce57595c-fc61-4046-88ca-395f29370b78@d8c17",
+      "displayName": "",
+      "id": "d8c17",
+      "name": "water_fall.prefab",
+      "ver": "1.0.11",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "redirect": "ce57595c-fc61-4046-88ca-395f29370b78@d8c17",
+    "assetFinder": {
+      "meshes": [
+        "ce57595c-fc61-4046-88ca-395f29370b78@9a84c"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "ce57595c-fc61-4046-88ca-395f29370b78@ea6e2"
+      ],
+      "scenes": [
+        "ce57595c-fc61-4046-88ca-395f29370b78@d8c17"
+      ]
+    }
+  }
+}

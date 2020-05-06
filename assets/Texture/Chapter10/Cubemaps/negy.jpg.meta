@@ -1,0 +1,40 @@
+{
+  "ver": "1.0.17",
+  "importer": "image",
+  "imported": true,
+  "uuid": "9bfaaeb3-ae7e-4c05-b204-f702717fbe52",
+  "files": [
+    ".jpg",
+    ".json"
+  ],
+  "subMetas": {
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "9bfaaeb3-ae7e-4c05-b204-f702717fbe52@6c48a",
+      "displayName": "negy",
+      "id": "6c48a",
+      "name": "texture",
+      "ver": "1.0.19",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "linear",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "9bfaaeb3-ae7e-4c05-b204-f702717fbe52"
+      }
+    }
+  },
+  "userData": {
+    "type": "texture",
+    "redirect": "9bfaaeb3-ae7e-4c05-b204-f702717fbe52@6c48a"
+  }
+}

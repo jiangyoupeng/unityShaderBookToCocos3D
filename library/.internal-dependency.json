@@ -29,6 +29,21 @@
     ],
     "G:\\CocosCreator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\ui-sprite-material.mtl": [
       "60f7195c-ec2a-45eb-ba94-8955f60e81d0"
+    ],
+    "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\default-material.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\default_renderpipeline\\tonemap.mtl": [
+      "31b152ff-f689-4082-a292-3eb5a0b33014"
+    ],
+    "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\gizmo\\scene-gizmo.mtl": [
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
+    ],
+    "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\particle-add.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\ui-sprite-material.mtl": [
+      "60f7195c-ec2a-45eb-ba94-8955f60e81d0"
     ]
   },
   "path": {
@@ -538,6 +553,265 @@
       "G:\\CocosCreator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\unlit-fs.chunk",
       "G:\\CocosCreator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\output.chunk",
       "G:\\CocosCreator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\gamma.chunk"
+    ],
+    "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\effects\\builtin-billboard.effect": [
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\vert.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\particle-common.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\cc-global.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\cc-local.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\transform.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\tinted-fs.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\output.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\gamma.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\no-tint-fs.chunk"
+    ],
+    "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\effects\\builtin-particle-gpu.effect": [
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\particle-vs-gpu.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\transform.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\particle-common.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\cc-global.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\cc-local.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\tinted-fs.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\output.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\gamma.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\no-tint-fs.chunk"
+    ],
+    "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\effects\\builtin-particle-trail.effect": [
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\particle-trail.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\particle-common.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\cc-global.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\cc-local.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\transform.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\tinted-fs.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\output.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\gamma.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\no-tint-fs.chunk"
+    ],
+    "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\effects\\builtin-particle.effect": [
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\particle-vs-legacy.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\transform.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\particle-common.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\cc-global.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\cc-local.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\tinted-fs.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\output.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\gamma.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\no-tint-fs.chunk"
+    ],
+    "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\effects\\builtin-sprite.effect": [
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\sprite-vs.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\cc-global.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\cc-local.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\sprite-fs.chunk"
+    ],
+    "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\effects\\builtin-standard.effect": [
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\standard-vs.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\cc-global.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\cc-local-batch.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\cc-local.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\input-standard.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\decode-standard.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\decode-base.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\morph.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\cc-skinning.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\skinning-lbs.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\shared-ubos.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\standard-fs.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\shading-standard.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\cc-environment.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\unpack.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\texture-lod.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\common.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\gamma.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\lighting.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\cc-forward-light.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\output-standard.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\aces.chunk"
+    ],
+    "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\effects\\builtin-terrain.effect": [
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\terrain-vs.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\cc-global.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\cc-local.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\terrain-fs.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\output.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\gamma.chunk"
+    ],
+    "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\effects\\builtin-toon.effect": [
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\outline-vs.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\cc-global.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\cc-local-batch.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\cc-local.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\input-standard.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\decode-standard.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\decode-base.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\morph.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\cc-skinning.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\skinning-lbs.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\outline-fs.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\output.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\gamma.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\toon-vs.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\toon-fs.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\shading-toon.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\common.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\lighting.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\cc-forward-light.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\output-standard.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\aces.chunk"
+    ],
+    "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\effects\\builtin-unlit.effect": [
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\unlit-vs.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\cc-global.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\cc-local-batch.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\cc-local.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\input.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\decode.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\decode-base.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\morph.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\cc-skinning.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\skinning-lbs.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\unlit-fs.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\output.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\gamma.chunk"
+    ],
+    "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\effects\\editor\\gizmo.effect": [
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\gizmo-vs.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\cc-local.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\cc-global.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\gizmo-fs.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\rect-area-light.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\gamma.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\output.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\line-vs.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\line-fs.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\sprite-vs.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\sprite-fs.chunk"
+    ],
+    "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\effects\\editor\\grid-2d.effect": [
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\grid-vs.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\cc-local.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\cc-global.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\grid-fs.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\output.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\gamma.chunk"
+    ],
+    "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\effects\\editor\\grid-stroke.effect": [
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\grid-vs.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\cc-global.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\grid-fs.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\output.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\gamma.chunk"
+    ],
+    "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\effects\\editor\\grid.effect": [
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\grid-vs.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\cc-local.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\cc-global.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\grid-fs.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\output.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\gamma.chunk"
+    ],
+    "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\effects\\editor\\light.effect": [
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\light-vs.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\cc-local.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\cc-global.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\common.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\ubo.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\light-fs.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\output.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\gamma.chunk"
+    ],
+    "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\effects\\editor\\terrain-circle-brush.effect": [
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\terrain-brush-vs.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\cc-global.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\cc-local.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\terrain-brush-fs.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\output.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\gamma.chunk"
+    ],
+    "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\effects\\pipeline\\planar-shadow.effect": [
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\planar-shadow-vs.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\cc-global.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\cc-local-batch.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\cc-local.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\cc-shadow.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\input.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\decode.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\decode-base.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\morph.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\cc-skinning.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\skinning-lbs.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\planar-shadow-fs.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\output.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\gamma.chunk"
+    ],
+    "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\effects\\pipeline\\skybox.effect": [
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\sky-vs.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\cc-global.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\decode.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\decode-base.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\sky-fs.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\cc-environment.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\unpack.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\gamma.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\output-standard.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\aces.chunk"
+    ],
+    "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\effects\\pipeline\\smaa.effect": [
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\smaa-edge-vs.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\cc-global.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\smaa-edge-fs.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\common.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\gamma.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\aces.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\smaa-blend-vs.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\smaa-blend-fs.chunk"
+    ],
+    "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\effects\\pipeline\\tonemap.effect": [
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\tonemap-vs.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\common.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\cc-global.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\tonemap-fs.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\gamma.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\aces.chunk"
+    ],
+    "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\effects\\util\\batched-unlit.effect": [
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\unlit-vs.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\cc-global.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\cc-local-batch.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\cc-local.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\input.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\decode.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\decode-base.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\morph.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\cc-skinning.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\skinning-lbs.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\unlit-fs.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\output.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\gamma.chunk"
+    ],
+    "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\effects\\util\\profiler.effect": [
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\profiler-vs.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\cc-global.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\decode.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\decode-base.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\profiler-fs.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\output.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\gamma.chunk"
+    ],
+    "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\effects\\util\\sequence-anim.effect": [
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\unlit-vs.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\cc-global.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\cc-local-batch.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\cc-local.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\input.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\decode.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\decode-base.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\morph.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\cc-skinning.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\skinning-lbs.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\unlit-fs.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\output.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\gamma.chunk"
     ]
   }
 }

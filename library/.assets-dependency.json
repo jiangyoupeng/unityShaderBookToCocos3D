@@ -159,6 +159,298 @@
       "G:\\creatorProject\\unityShaderBookToCocos3D\\assets\\chunks\\skinning-lbs.chunk",
       "G:\\creatorProject\\unityShaderBookToCocos3D\\assets\\chunks\\unlit-fs.chunk",
       "G:\\creatorProject\\unityShaderBookToCocos3D\\assets\\chunks\\texture-lod.chunk"
+    ],
+    "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\Shader\\Chapter7\\Chapter7-RampTexture.effect": [
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\unlit-vs.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\cc-global.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\cc-local-batch.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\cc-local.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\input-standard.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\decode-standard.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\decode-base.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\morph.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\cc-skinning.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\skinning-lbs.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\unlit-fs.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\texture-lod.chunk",
+      "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\chunks\\unlit-vs.chunk",
+      "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\chunks\\cc-global.chunk",
+      "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\chunks\\cc-local-batch.chunk",
+      "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\chunks\\cc-local.chunk",
+      "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\chunks\\input-standard.chunk",
+      "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\chunks\\decode-standard.chunk",
+      "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\chunks\\decode-base.chunk",
+      "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\chunks\\morph.chunk",
+      "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\chunks\\cc-skinning.chunk",
+      "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\chunks\\skinning-lbs.chunk",
+      "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\chunks\\unlit-fs.chunk",
+      "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\chunks\\texture-lod.chunk"
+    ],
+    "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\Shader\\Chapter7\\Chapter7-SingleTexture.effect": [
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\unlit-vs.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\cc-global.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\cc-local-batch.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\cc-local.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\input-standard.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\decode-standard.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\decode-base.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\morph.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\cc-skinning.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\skinning-lbs.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\unlit-fs.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\texture-lod.chunk",
+      "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\chunks\\unlit-vs.chunk",
+      "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\chunks\\cc-global.chunk",
+      "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\chunks\\cc-local-batch.chunk",
+      "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\chunks\\cc-local.chunk",
+      "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\chunks\\input-standard.chunk",
+      "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\chunks\\decode-standard.chunk",
+      "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\chunks\\decode-base.chunk",
+      "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\chunks\\morph.chunk",
+      "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\chunks\\cc-skinning.chunk",
+      "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\chunks\\skinning-lbs.chunk",
+      "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\chunks\\unlit-fs.chunk",
+      "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\chunks\\texture-lod.chunk"
+    ],
+    "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\Shader\\Chapter8\\Chapter8-AlphaTest.effect": [
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\unlit-vs.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\cc-global.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\cc-local-batch.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\cc-local.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\input-standard.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\decode-standard.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\decode-base.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\morph.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\cc-skinning.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\skinning-lbs.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\unlit-fs.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\texture-lod.chunk",
+      "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\chunks\\unlit-vs.chunk",
+      "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\chunks\\cc-global.chunk",
+      "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\chunks\\cc-local-batch.chunk",
+      "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\chunks\\cc-local.chunk",
+      "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\chunks\\input-standard.chunk",
+      "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\chunks\\decode-standard.chunk",
+      "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\chunks\\decode-base.chunk",
+      "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\chunks\\morph.chunk",
+      "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\chunks\\cc-skinning.chunk",
+      "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\chunks\\skinning-lbs.chunk",
+      "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\chunks\\unlit-fs.chunk",
+      "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\chunks\\texture-lod.chunk"
+    ],
+    "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\Shader\\effect.effect": [
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\general-vs.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\cc-global.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\cc-local-batch.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\cc-local.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\input-standard.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\decode-standard.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\decode-base.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\morph.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\cc-skinning.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\skinning-lbs.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\unlit-fs.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\output.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\gamma.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\unlit-testFs.chunk",
+      "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\chunks\\general-vs.chunk",
+      "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\chunks\\cc-global.chunk",
+      "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\chunks\\cc-local-batch.chunk",
+      "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\chunks\\cc-local.chunk",
+      "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\chunks\\input-standard.chunk",
+      "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\chunks\\decode-standard.chunk",
+      "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\chunks\\decode-base.chunk",
+      "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\chunks\\morph.chunk",
+      "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\chunks\\cc-skinning.chunk",
+      "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\chunks\\skinning-lbs.chunk",
+      "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\chunks\\unlit-fs.chunk",
+      "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\chunks\\output.chunk",
+      "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\chunks\\gamma.chunk",
+      "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\chunks\\unlit-testFs.chunk"
+    ],
+    "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\Shader\\Chapter10\\Chapter10-Fresnel.effect": [
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\unlit-vs.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\cc-global.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\cc-local-batch.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\cc-local.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\input-standard.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\decode-standard.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\decode-base.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\morph.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\cc-skinning.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\skinning-lbs.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\unlit-fs.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\texture-lod.chunk",
+      "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\chunks\\unlit-vs.chunk",
+      "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\chunks\\cc-global.chunk",
+      "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\chunks\\cc-local-batch.chunk",
+      "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\chunks\\cc-local.chunk",
+      "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\chunks\\input-standard.chunk",
+      "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\chunks\\decode-standard.chunk",
+      "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\chunks\\decode-base.chunk",
+      "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\chunks\\morph.chunk",
+      "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\chunks\\cc-skinning.chunk",
+      "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\chunks\\skinning-lbs.chunk",
+      "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\chunks\\unlit-fs.chunk",
+      "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\chunks\\texture-lod.chunk"
+    ],
+    "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\Shader\\Chapter7\\Chapter7-NormalMapWorldSpace.effect": [
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\unlit-vs.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\cc-global.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\cc-local-batch.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\cc-local.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\input-standard.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\decode-standard.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\decode-base.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\morph.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\cc-skinning.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\skinning-lbs.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\unlit-fs.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\texture-lod.chunk",
+      "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\chunks\\unlit-vs.chunk",
+      "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\chunks\\cc-global.chunk",
+      "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\chunks\\cc-local-batch.chunk",
+      "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\chunks\\cc-local.chunk",
+      "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\chunks\\input-standard.chunk",
+      "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\chunks\\decode-standard.chunk",
+      "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\chunks\\decode-base.chunk",
+      "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\chunks\\morph.chunk",
+      "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\chunks\\cc-skinning.chunk",
+      "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\chunks\\skinning-lbs.chunk",
+      "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\chunks\\unlit-fs.chunk",
+      "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\chunks\\texture-lod.chunk"
+    ],
+    "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\Shader\\Chapter7\\Chapter7-NormalMapTangentSpace.effect": [
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\unlit-vs.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\cc-global.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\cc-local-batch.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\cc-local.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\input-standard.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\decode-standard.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\decode-base.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\morph.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\cc-skinning.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\skinning-lbs.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\unlit-fs.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\texture-lod.chunk",
+      "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\chunks\\unlit-vs.chunk",
+      "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\chunks\\cc-global.chunk",
+      "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\chunks\\cc-local-batch.chunk",
+      "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\chunks\\cc-local.chunk",
+      "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\chunks\\input-standard.chunk",
+      "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\chunks\\decode-standard.chunk",
+      "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\chunks\\decode-base.chunk",
+      "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\chunks\\morph.chunk",
+      "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\chunks\\cc-skinning.chunk",
+      "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\chunks\\skinning-lbs.chunk",
+      "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\chunks\\unlit-fs.chunk",
+      "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\chunks\\texture-lod.chunk"
+    ],
+    "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\Shader\\Chapter10\\quadMaterial.effect": [
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\unlit-vs.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\cc-global.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\cc-local-batch.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\cc-local.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\input-standard.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\decode-standard.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\decode-base.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\morph.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\cc-skinning.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\skinning-lbs.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\unlit-fs.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\output.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\gamma.chunk",
+      "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\chunks\\unlit-vs.chunk",
+      "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\chunks\\cc-global.chunk",
+      "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\chunks\\cc-local-batch.chunk",
+      "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\chunks\\cc-local.chunk",
+      "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\chunks\\input-standard.chunk",
+      "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\chunks\\decode-standard.chunk",
+      "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\chunks\\decode-base.chunk",
+      "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\chunks\\morph.chunk",
+      "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\chunks\\cc-skinning.chunk",
+      "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\chunks\\skinning-lbs.chunk",
+      "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\chunks\\unlit-fs.chunk",
+      "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\chunks\\output.chunk",
+      "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\chunks\\gamma.chunk"
+    ],
+    "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\Shader\\Chapter11\\Chapter11-Water.effect": [
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\unlit-vs.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\cc-global.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\cc-local-batch.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\cc-local.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\input-standard.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\decode-standard.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\decode-base.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\morph.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\cc-skinning.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\skinning-lbs.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\unlit-fs.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\texture-lod.chunk",
+      "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\chunks\\unlit-vs.chunk",
+      "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\chunks\\cc-global.chunk",
+      "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\chunks\\cc-local-batch.chunk",
+      "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\chunks\\cc-local.chunk",
+      "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\chunks\\input-standard.chunk",
+      "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\chunks\\decode-standard.chunk",
+      "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\chunks\\decode-base.chunk",
+      "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\chunks\\morph.chunk",
+      "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\chunks\\cc-skinning.chunk",
+      "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\chunks\\skinning-lbs.chunk",
+      "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\chunks\\unlit-fs.chunk",
+      "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\chunks\\texture-lod.chunk"
+    ],
+    "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\Shader\\Chapter12\\Chapter12-BrightnessSaturationAndContrast.effect": [
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\unlit-vs.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\cc-global.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\cc-local-batch.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\cc-local.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\input-standard.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\decode-standard.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\decode-base.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\morph.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\cc-skinning.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\skinning-lbs.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\unlit-fs.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\texture-lod.chunk",
+      "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\chunks\\unlit-vs.chunk",
+      "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\chunks\\cc-global.chunk",
+      "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\chunks\\cc-local-batch.chunk",
+      "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\chunks\\cc-local.chunk",
+      "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\chunks\\input-standard.chunk",
+      "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\chunks\\decode-standard.chunk",
+      "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\chunks\\decode-base.chunk",
+      "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\chunks\\morph.chunk",
+      "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\chunks\\cc-skinning.chunk",
+      "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\chunks\\skinning-lbs.chunk",
+      "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\chunks\\unlit-fs.chunk",
+      "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\chunks\\texture-lod.chunk"
+    ],
+    "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\Shader\\Chapter12\\Chapter12-EdgeDetection.effect": [
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\unlit-vs.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\cc-global.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\cc-local-batch.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\cc-local.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\input-standard.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\decode-standard.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\decode-base.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\morph.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\cc-skinning.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\skinning-lbs.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\unlit-fs.chunk",
+      "F:\\creator\\CocosCreator3D-v1.1.0-win32-042220\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\texture-lod.chunk",
+      "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\chunks\\unlit-vs.chunk",
+      "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\chunks\\cc-global.chunk",
+      "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\chunks\\cc-local-batch.chunk",
+      "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\chunks\\cc-local.chunk",
+      "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\chunks\\input-standard.chunk",
+      "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\chunks\\decode-standard.chunk",
+      "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\chunks\\decode-base.chunk",
+      "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\chunks\\morph.chunk",
+      "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\chunks\\cc-skinning.chunk",
+      "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\chunks\\skinning-lbs.chunk",
+      "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\chunks\\unlit-fs.chunk",
+      "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\chunks\\texture-lod.chunk"
     ]
   },
   "uuid": {
@@ -187,6 +479,82 @@
     ],
     "G:\\creatorProject\\unityShaderBookToCocos3D\\assets\\Shader\\Chapter7\\Chapter7-RampTexture.mtl": [
       "e73deb30-410e-409c-9c30-5105a97d59f3"
+    ],
+    "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\Shader\\Chapter7\\Chapter7-NormalMapTangentSpace.mtl": [
+      "8d54bb0f-b6f1-463b-9b5e-a3989dc4217b"
+    ],
+    "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\Shader\\Chapter7\\Chapter7-NormalMapWorldSpace.mtl": [
+      "e7e3e851-94f5-4268-bb49-bf99279677b0"
+    ],
+    "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\Shader\\Chapter7\\Chapter7-RampTexture.mtl": [
+      "e73deb30-410e-409c-9c30-5105a97d59f3"
+    ],
+    "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\Shader\\Chapter7\\Chapter7-SingleTexture.mtl": [
+      "f9958bdb-022d-4f3f-8ac9-01eebdc6f1a0"
+    ],
+    "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\Shader\\Chapter8\\Chapter8-AlphaTest.mtl": [
+      "b593106b-fbe6-48f1-90b0-654931ff4e33"
+    ],
+    "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\Shader\\material.mtl": [
+      "a4f3c9f5-44d9-432c-b213-71f706a30cdb",
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc",
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\Shader\\Chapter10\\Chapter8-AlphaTest.mtl": [
+      "b593106b-fbe6-48f1-90b0-654931ff4e33"
+    ],
+    "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\Shader\\Chapter10\\Chapter10-Fresnel.mtl": [
+      "b593106b-fbe6-48f1-90b0-654931ff4e33",
+      "86f03205-6cda-4ec5-9b46-1b7c7d302798"
+    ],
+    "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\Shader\\Chapter10\\Chapter7-NormalMapTangentSpace.mtl": [
+      "8d54bb0f-b6f1-463b-9b5e-a3989dc4217b"
+    ],
+    "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\Shader\\Chapter10\\Chapter10-wall.mtl": [
+      "8d54bb0f-b6f1-463b-9b5e-a3989dc4217b"
+    ],
+    "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\Shader\\common\\material.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319",
+      "8d54bb0f-b6f1-463b-9b5e-a3989dc4217b"
+    ],
+    "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\Shader\\Chapter10\\material.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\Shader\\Chapter10\\Sphere2.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319",
+      "8d54bb0f-b6f1-463b-9b5e-a3989dc4217b",
+      "e7e3e851-94f5-4268-bb49-bf99279677b0"
+    ],
+    "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\Shader\\Chapter10\\quadMa.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\Shader\\Chapter10\\quadMaterial.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319",
+      "10086df6-3d0b-4194-b42a-6e46fe67ee05"
+    ],
+    "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\Shader\\Chapter11\\material.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\Shader\\Chapter11\\Chapter11-Water.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319",
+      "255d9d9a-15f7-4e93-a100-b5e39ac252ea"
+    ],
+    "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\Shader\\Chapter11\\Chapter11-Water-001.mtl": [
+      "255d9d9a-15f7-4e93-a100-b5e39ac252ea"
+    ],
+    "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\Shader\\Chapter12\\Chapter11-Water-001.mtl": [
+      "255d9d9a-15f7-4e93-a100-b5e39ac252ea"
+    ],
+    "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\Shader\\Chapter12\\Chapter12-BrightnessSaturationAndContrast.mtl": [
+      "255d9d9a-15f7-4e93-a100-b5e39ac252ea",
+      "7aff3955-93ef-45af-a9d6-883a1cf4a912"
+    ],
+    "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\Shader\\Chapter12\\Chapter12-BrightnessSaturationAndContrast-001.mtl": [
+      "7aff3955-93ef-45af-a9d6-883a1cf4a912"
+    ],
+    "E:\\jypGame\\unityShaderBookToCocos3D\\assets\\Shader\\Chapter12\\Chapter12-EdgeDetection.mtl": [
+      "7aff3955-93ef-45af-a9d6-883a1cf4a912",
+      "8003e3c0-d58f-414d-94da-aa4febdee0fa"
     ]
   }
 }

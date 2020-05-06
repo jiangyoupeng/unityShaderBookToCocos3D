@@ -1,0 +1,74 @@
+// Effect Syntax Guide: https://github.com/cocos-creator/docs-3d/blob/master/zh/material-system/effect-syntax.md
+
+CCEffect %{
+  techniques:
+  - name: opaque
+    passes:
+    - vert: unlit-vs:vert # builtin header
+      frag: unlit-fs:frag
+      properties: &props
+        mainTiling: { value: [1, 1] }
+        mainOffset: { value: [0, 0] }
+        _Magnitude: {value: 1, editor: {step: 0.1}}
+        mainTex: { value: white }
+        _Color: { value: [1, 1, 1, 1], editor: {type: color} }
+        _Frequency: {value: 1}
+        _InvWaveLength: {value: 10}
+        _Speed: {value: 1}
+      rasterizerState: {cullMode: none}
+}%
+
+CCProgram unlit-vs %{
+  precision highp float;
+  #include <cc-global>
+  #include <cc-local-batch>
+  #include <input-standard>
+
+  in vec2 a_texCoord;
+  in vec4 a_color;
+  #if USE_TEXTURE
+    out vec2 v_uv0;
+  #endif
+  uniform VsConstant {
+    vec2 mainTiling;
+    vec2 mainOffset;
+    float _Magnitude;
+    float _Frequency;
+    float _InvWaveLength;
+    float _Speed;
+  };
+
+  vec4 vert () {
+    StandardVertInput In;
+    CCVertInput(In);
+    mat4 matWorld, matWorldIT;
+    CCGetWorldMatrixFull(matWorld, matWorldIT);
+    vec4 position = In.position;
+    #if USE_TEXTURE
+      v_uv0 = a_texCoord * mainTiling + mainOffset;
+    #endif
+    vec4 offset = vec4(0,0,0,0);
+    offset.x = sin(_Frequency * cc_time.x + In.position.x * _InvWaveLength + In.position.y * _InvWaveLength + In.position.z * _InvWaveLength) * _Magnitude;
+		v_uv0 += vec2(0.0, cc_time.x * _Speed);
+    v_uv0.y = 1. - v_uv0.y;
+    return cc_matProj * (cc_matView * matWorld) * (In.position + offset);
+  }
+}%
+CCProgram unlit-fs %{
+  precision highp float;
+  #include <cc-global>
+  #include <texture-lod>
+  #if USE_TEXTURE
+    in vec2 v_uv0;
+    uniform sampler2D mainTex;
+  #endif
+  uniform FsConstant {
+    vec4 _Color;
+  };
+
+  vec4 frag () {
+    vec4 c = texture(mainTex, v_uv0);
+    c.rgb *= _Color.rgb;
+    return c;
+  }
+}%

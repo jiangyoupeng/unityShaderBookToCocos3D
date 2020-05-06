@@ -110,6 +110,7 @@
           "type": 15,
           "count": 1,
           "defines": [],
+          "format": 32,
           "location": 0
         },
         {
@@ -117,6 +118,7 @@
           "type": 16,
           "count": 1,
           "defines": [],
+          "format": 43,
           "location": 1
         },
         {
@@ -124,6 +126,7 @@
           "type": 14,
           "count": 1,
           "defines": [],
+          "format": 21,
           "location": 2
         }
       ],

@@ -115,17 +115,20 @@ CCProgram unlit-fs %{
     vec3 textureNormal = vec3(1,1,1);
     textureNormal.xy = (packedNormal.xy * 2. - 1.) * bumpScale;
     textureNormal.z = sqrt(1. - max(0., dot(textureNormal.xy, textureNormal.xy)));
-    vec3 worldNormal = vec3( dot(toWorld1.xyz, textureNormal), dot(toWorld2.xyz, textureNormal), dot(toWorld3.xyz, textureNormal));
+    vec3 worldNormal = normalize(vec3( dot(toWorld1.xyz, textureNormal), dot(toWorld2.xyz, textureNormal), dot(toWorld3.xyz, textureNormal)));
     vec3 albedo = vec3(1, 1, 1);
     #if USE_TEXTURE
         vec4 tmp = texture(mainTex, v_uv0);
         albedo *= tmp.rgb;
     #endif
-    vec3 ambient = cc_ambientGround.rgb * albedo;
+
+    albedo *= color.rgb;
+    vec3 ambient = albedo * cc_ambientGround.rgb;
     vec3 diffuse = cc_mainLitColor.rgb * diffuseColor.rgb * max(0., dot(worldNormal, lightDir)) * albedo;
     vec3 halfDir = normalize(viewDir + lightDir);
     vec3 specular = cc_mainLitColor.rgb * specularColor.rgb * pow(max(0., dot(worldNormal, halfDir)), gloss);
-    return vec4(ambient + diffuse + specular, 1);
+    // return vec4(ambient + diffuse + specular, 1);
+    return vec4(diffuse , 1);
     // return vec4(v_tangent.xyz, 1);
     // return vec4(0., 0., v_tangent.z, 1.);
   }
